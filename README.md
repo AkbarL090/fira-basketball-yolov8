@@ -61,14 +61,16 @@ Setelan bersama: 100 epoch, `imgsz=640`, `batch=16`, AdamW, `lr0=0.00143` (satu 
 
 Confusion matrix dan kurva PR tiap mode ada di `results/<mode>/`.
 
-## Latensi
+## Latensi dan perbandingan ukuran model
 
-Diukur dengan `scripts/latency.py` (200 inferensi pada citra test, setelah 20 kali pemanasan) pada **[isi: perangkat, mis. GPU T4 Google Colab]**. Angka ini bukan pengukuran pada perangkat target robot, sehingga dipakai untuk membandingkan model, bukan sebagai jaminan FPS di robot. Anggaran: 15 FPS ≈ 67 ms per frame (slide 16).
+Diukur dengan `scripts/latency.py` (200 inferensi pada citra test, setelah 20 kali pemanasan) pada **GPU Tesla T4 (Google Colab)**, bobot PyTorch (`.pt`), input 640×640, Ultralytics 8.4.171. Angka ini bukan pengukuran pada perangkat target robot, sehingga dipakai untuk membandingkan model, bukan sebagai jaminan FPS di robot. Anggaran: 15 FPS ≈ 67 ms per frame (slide 16).
 
-| Model | Pre (ms) | Inferensi (ms) | Post (ms) | Total (ms) | FPS |
-|---|---|---|---|---|---|
-| YOLOv8s (`full`) | [isi] | [isi] | [isi] | [isi] | [isi] |
-| YOLOv8n | [isi] | [isi] | [isi] | [isi] | [isi] |
+| Model (mode `full`) | Parameter | GFLOPs | mAP50 test | mAP50-95 test | Pre (ms) | Inferensi (ms) | Post (ms) | Total (ms) | FPS |
+|---|---|---|---|---|---|---|---|---|---|
+| YOLOv8s | 11,1 juta | 28,4 | 0,939 | 0,707 | 0,7 | 11,3 | 1,5 | 13,6 | 73,7 |
+| YOLOv8n | 3,0 juta | 8,1 | 0,959 | 0,712 | 0,6 | 5,7 | 1,2 | 7,6 | 132,4 |
+
+YOLOv8n dilatih dengan setelan yang sama seperti `full` pada YOLOv8s (100 epoch, AdamW, `lr0=0,00143`, seed 0).
 
 Catatan penerapan: model ini direncanakan untuk robot humanoid dengan kamera di kepala; pengujian di robot menyusul.
 
@@ -79,7 +81,8 @@ Catatan penerapan: model ini direncanakan untuk robot humanoid dengan kamera di 
 3. **Akurasi akhir praktis sama.** mAP50 val mencapai 0,995 untuk semua mode (jenuh). mAP50 test berkisar 0,929-0,957, tetapi test set hanya 9 citra dengan 26 kotak, sehingga selisih itu setara satu-dua kotak dan tidak cukup untuk menyimpulkan mode mana yang lebih baik. Hasil `scratch` yang sedikit lebih tinggi di test **bukan** bukti bahwa pelatihan dari nol lebih baik. mAP50-95 tertinggi dimiliki `full` (0,707), selisihnya tipis.
 4. **Waktu pelatihan:** `feature` ≈ 7% lebih cepat dari `full`; `scratch` ≈ 13% lebih lambat dari `full` (waktu dinding, termasuk validasi tiap epoch).
 5. **Keterbatasan: data leakage.** Seluruh 181 citra bernomor frame berurutan 1530-1710 (satu rekaman) dan dibagi acak, sehingga frame val/test bertetangga dengan frame train (misalnya test 1532 dan 1533 di antara train 1530, 1531, 1534). Skor valid 0,995 untuk semua mode adalah tanda khas hal ini. Angka di atas hampir pasti terlalu optimis untuk kondisi lapangan baru (hall, cahaya, sudut kamera lain). Dataset juga diekspor dengan resize 640×480 *stretch*, sehingga rasio aspek citra latih berbeda dari citra kamera asli. Mitigasi: `scripts/split_by_block.py` (split blok berurutan dengan jeda), dan menambah rekaman dari sesi/lokasi berbeda, terutama untuk test.
-6. **Kesimpulan sementara.** Untuk proyek ini dipilih model pretrained COCO. Konvergensi tercepat dan paling stabil dicapai `feature`, mAP50-95 tertinggi dicapai `full` (dengan LR lebih kecil perlu diuji). Pilihan akhir ditetapkan setelah split ulang tanpa leakage dan pengukuran latensi di perangkat target.
+6. **YOLOv8n vs YOLOv8s.** YOLOv8n memiliki sekitar 3,7 kali lebih sedikit parameter dan berjalan sekitar 1,8 kali lebih cepat (7,6 ms vs 13,6 ms per frame di T4), dengan mAP test yang setara (0,959 vs 0,939 untuk mAP50; selisih itu masih dalam rentang derau test set 9 citra). Pada data ini, kapasitas tambahan YOLOv8s tidak memberi keuntungan akurasi yang terukur.
+7. **Kesimpulan sementara.** Model pretrained COCO lebih baik daripada dari nol dalam kecepatan konvergensi. Sebagai kandidat untuk robot dipilih **YOLOv8n dengan fine-tuning penuh**: akurasinya setara YOLOv8s tetapi jauh lebih ringan, sehingga memberi ruang pada perangkat yang lebih lemah dari T4. Keputusan akhir menunggu split ulang tanpa leakage dan pengukuran di perangkat target.
 
 ## Cara menjalankan ulang
 
@@ -91,4 +94,4 @@ python scripts/train_colab.py                  # 4 mode (butuh GPU)
 python scripts/latency.py results/full/weights/best.pt
 ```
 
-Bobot (`best.pt`, ONNX) tidak disimpan di repo karena ukurannya; tersedia di: [isi tautan Drive/Release].
+Bobot (`best.pt`, ONNX) tidak disimpan di repo karena ukurannya.

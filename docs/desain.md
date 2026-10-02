@@ -1,6 +1,6 @@
 # Dokumen Desain Awal: Deteksi Objek Basket untuk FIRA HuroCup 2027
 
-Mata kuliah RET503, Pertemuan 3. Bagian bertanda **[isi]** dilengkapi setelah pengukuran.
+Mata kuliah RET503, Pertemuan 3. Hasil pengukuran ada di README.
 
 ## 1. Tujuan dan misi robot
 Robot humanoid pada kategori Basketball FIRA HuroCup 2027 harus mengenali **bola**, **ring (rim)**, dan **papan pantul (backboard)** dari kamera onboard sebagai dasar menentukan posisi, arah, dan keputusan lemparan. Keluaran perception: kelas, kotak pembatas, dan skor kepercayaan per frame.
@@ -20,7 +20,7 @@ Robot humanoid pada kategori Basketball FIRA HuroCup 2027 harus mengenali **bola
 | YOLOv8n | 3,2 juta | Paling ringan; kandidat bila YOLOv8s tidak mencapai 15 FPS |
 | YOLOv8s | 11,2 juta | Akurasi lebih baik untuk objek kecil (bola jauh); sudah dilatih dan diekspor ONNX |
 
-Keduanya tersedia bobot pretrained COCO, mendukung ekspor ONNX/TensorRT, dan satu keluarga sehingga pipeline data sama. Pemilihan akhir berdasarkan akurasi dan latensi hasil `scripts/latency.py`; perangkat komputasi robot direncanakan NVIDIA Jetson.
+Keduanya tersedia bobot pretrained COCO, mendukung ekspor ONNX/TensorRT, dan satu keluarga sehingga pipeline data sama. Pemilihan akhir berdasarkan akurasi dan latensi hasil `scripts/latency.py`; perangkat komputasi robot direncanakan NVIDIA Jetson. Hasil sementara (GPU T4): YOLOv8n 7,6 ms (132 FPS), mAP50 test 0,959; YOLOv8s 13,6 ms (74 FPS), mAP50 test 0,939. Kandidat terpilih: YOLOv8n.
 
 ## 4. Strategi transfer learning
 Bobot awal COCO (kelas `sports ball` mirip dengan bola basket). Empat strategi dibandingkan dengan setelan yang sama: `feature` (`freeze=10`), `partial` (`freeze=7`), `full` (tanpa freeze), dan `scratch` (tanpa pretrained). Satu LR (`lr0=0,00143`, AdamW), 100 epoch, seed 0. Hipotesis: dataset kecil (181 citra) sehingga mode pretrained lebih cepat konvergen dan `scratch` paling lambat.
