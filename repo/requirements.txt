@@ -1,5 +1,0 @@
-ultralytics==8.4.161
-pandas
-matplotlib
-onnx
-onnxruntime
