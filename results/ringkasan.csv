@@ -1,0 +1,5 @@
+mode,val_mAP50,test_mAP50,test_mAP50_95,epoch_ke_mAP50_0_9
+full,0.995,0.939,0.707,2
+partial,0.995,0.929,0.699,8
+feature,0.995,0.948,0.702,4
+scratch,0.995,0.957,0.698,17
