@@ -36,10 +36,10 @@ NVIDIA Jetson Xavier NX, mode daya `MODE_20W_6CORE`, JetPack 5.1.1 (L4T R35.3.1)
 | **EfficientNet-B0** (terpilih) | ≈ 5,3 juta | Pada tabel slide 14 ditandai "cocok untuk Jetson", sama dengan unit komputasi robot; akurasi ImageNet 77,7% |
 | MobileNetV3-Large (cadangan) | ≈ 5,5 juta | Lebih ringan (0,22 GFLOPs); dipakai bila latensi EfficientNet-B0 melebihi anggaran |
 
-Kelima model slide 14 diukur latensinya (`scripts/latency.py`) sebagai pembanding.
+Kelima model slide 14 diukur latensinya (`scripts/latency.py`) sebagai pembanding. Hasil di GPU T4 (batch 1, fp32): EfficientNet-B0 9,5 ms total (105 FPS); semua model ≤ 10,3 ms. Pengukuran di Jetson (TensorRT FP16) belum dilakukan.
 
 ## 7. Strategi transfer learning
-Titik awal: **feature extraction**, lalu **fine-tuning parsial** (matriks keputusan slide 10). Alasannya: data hanya ratusan potongan per kelas, dan domain sumber (foto ImageNet) dekat dengan domain target (foto berwarna dari kamera robot), meskipun potongan kami buram karena gerakan. Mode `scratch` dilatih sebagai pembanding untuk menunjukkan manfaat bobot pretrained. Mode akhir dipilih dari akurasi validasi dan stabilitas antar seed.
+Titik awal: **feature extraction**, lalu **fine-tuning parsial** (matriks keputusan slide 10). Alasannya: data hanya ratusan potongan per kelas, dan domain sumber (foto ImageNet) dekat dengan domain target (foto berwarna dari kamera robot), meskipun potongan kami buram karena gerakan. Mode `scratch` dilatih sebagai pembanding untuk menunjukkan manfaat bobot pretrained. **Hasil P2 (3 seed):** `feature` dan `partial` sama-sama 99,3 ± 0,5% di test dan lebih cepat konvergen daripada `scratch` (97,1 ± 1,4%); dipilih **`feature`** karena hanya melatih 5.124 parameter tanpa kehilangan akurasi. Target kinerja bagian 5 untuk akurasi dan recall terpenuhi pada data satu sesi ini; belum teruji pada sesi lain.
 
 ## 8. Rencana data
 - Sumber: kamera robot, 24 September 2026, lab BRAIL, cahaya netral, di-capture tiap 0,5 detik saat robot dijalankan (satu rekaman, 181 frame).
