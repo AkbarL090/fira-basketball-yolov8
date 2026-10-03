@@ -1,45 +1,58 @@
-# Dokumen Desain Awal: Deteksi Objek Basket untuk FIRA HuroCup 2027
+# Dokumen Desain Awal: Persepsi Objek Basket untuk FIRA HuroCup 2027
 
-Mata kuliah RET503, Pertemuan 3. Hasil pengukuran ada di README.
+RET503 Computer Vision and Deep Learning, Pertemuan 3 (CDIO Stage #2 Design). Pemilik: Muhammad Akbar Iqvi (NIM 4222401006), Barelang FC, Politeknik Negeri Batam.
 
-## 1. Tujuan dan misi robot
-Robot humanoid pada kategori Basketball FIRA HuroCup 2027 harus mengenali **bola**, **ring (rim)**, dan **papan pantul (backboard)** dari kamera onboard sebagai dasar menentukan posisi, arah, dan keputusan lemparan. Keluaran perception: kelas, kotak pembatas, dan skor kepercayaan per frame.
+## 1. Misi proyek
+Robot humanoid pada kategori Basketball FIRA HuroCup 2027 harus menemukan **bola tenis**, **ring (rim)**, dan **papan pantul (backboard)** dari kamera di kepalanya, lalu memakai posisi ketiganya untuk menentukan arah dan jarak lemparan. Pada tahap ini perception diselesaikan sebagai **klasifikasi potongan citra** (apa isi kotak ini?) dengan transfer learning; detektor penuh (menemukan kotaknya) dikerjakan pada proyek berikutnya.
 
-## 2. Spesifikasi tugas
+## 2. Kelas objek
+Empat kelas: `backboard`, `ball`, `rim`, dan `latar` (area tanpa objek, agar model belajar menolak yang bukan target).
+
+![contoh kelas](img/contoh_kelas.png)
+
+## 3. Kamera dan dudukan
 | Item | Isi |
 |---|---|
-| Tugas | Deteksi objek (3 kelas: `backboard`, `ball`, `rim`) |
-| Masukan | Citra RGB dari kamera e-con See3CAM_CU135 (sensor 1080p; dipakai 1280×720 MJPG, 30 fps, dapat 60 fps), dipasang di kepala robot humanoid, tinggi ≈ 1 m dari lantai; diubah ke 640×640 (RGB, skala 0-1) |
-| Keluaran | Kotak + kelas + skor; kemudian dipakai modul strategi |
-| Kondisi lapangan | Jarak lempar 1-1,5 m; kamera ikut bergerak bersama kepala saat robot berjalan (motion blur, sudut berubah); bola bergerak; pencahayaan lab/hall |
-| Target kinerja | mAP50 ≥ 0,90 pada test set yang dipisah per sesi; ≥ 15 FPS pada perangkat target (anggaran 67 ms per frame) |
+| Kamera | e-con See3CAM_CU135, resolusi 1080p, 30 atau 60 fps |
+| Dudukan | Di kepala robot humanoid, ikut bergerak saat robot berjalan atau menoleh |
+| Tinggi | ± 1 m dari lantai |
+| Jarak kerja | 1 - 1,5 m dari titik lempar ke ring |
+| Konfigurasi saat ini | Node persepsi membuka 1280 × 720, MJPG, 30 fps |
 
-## 3. Kandidat model dan alasan
-| Kandidat | Parameter (≈) | Alasan |
+## 4. Unit komputasi
+NVIDIA Jetson Xavier NX, mode daya `MODE_20W_6CORE`, JetPack 5.1.1 (L4T R35.3.1), TensorRT 8.5.2, ROS 2 Foxy. Inferensi direncanakan dengan TensorRT FP16.
+
+## 5. Target kinerja
+| Metrik | Target |
+|---|---|
+| Akurasi test (klasifikasi 4 kelas) | ≥ 90% (ambang yang sama dengan slide 21), dilaporkan rata-rata beberapa seed |
+| Recall per kelas pada test | tidak ada kelas target di bawah 85% |
+| Latensi inferensi model | ≤ 35 ms per citra di Jetson (anggaran slide 16: 15 FPS ≈ 67 ms untuk seluruh pipeline) |
+| Latensi ROS 2 | diukur setelah node terpasang di robot |
+
+## 6. Kandidat model
+| Kandidat | Parameter (kepala 1000 kelas) | Alasan |
 |---|---|---|
-| YOLOv8n | 3,2 juta | Paling ringan; kandidat bila YOLOv8s tidak mencapai 15 FPS |
-| YOLOv8s | 11,2 juta | Akurasi lebih baik untuk objek kecil (bola jauh); sudah dilatih dan diekspor ONNX |
+| **EfficientNet-B0** (terpilih) | ≈ 5,3 juta | Pada tabel slide 14 ditandai "cocok untuk Jetson", sama dengan unit komputasi robot; akurasi ImageNet 77,7% |
+| MobileNetV3-Large (cadangan) | ≈ 5,5 juta | Lebih ringan (0,22 GFLOPs); dipakai bila latensi EfficientNet-B0 melebihi anggaran |
 
-Keduanya tersedia bobot pretrained COCO, mendukung ekspor ONNX/TensorRT, dan satu keluarga sehingga pipeline data sama. Pemilihan akhir berdasarkan akurasi dan latensi hasil `scripts/latency.py`; perangkat komputasi robot direncanakan NVIDIA Jetson. Hasil sementara (GPU T4): YOLOv8n 7,6 ms (132 FPS), mAP50 test 0,959; YOLOv8s 13,6 ms (74 FPS), mAP50 test 0,939. Kandidat terpilih: YOLOv8n.
+Kelima model slide 14 diukur latensinya (`scripts/latency.py`) sebagai pembanding.
 
-## 4. Strategi transfer learning
-Bobot awal COCO (kelas `sports ball` mirip dengan bola basket). Empat strategi dibandingkan dengan setelan yang sama: `feature` (`freeze=10`), `partial` (`freeze=7`), `full` (tanpa freeze), dan `scratch` (tanpa pretrained). Satu LR (`lr0=0,00143`, AdamW), 100 epoch, seed 0. Hipotesis: dataset kecil (181 citra) sehingga mode pretrained lebih cepat konvergen dan `scratch` paling lambat.
+## 7. Strategi transfer learning
+Titik awal: **feature extraction**, lalu **fine-tuning parsial** (matriks keputusan slide 10). Alasannya: data hanya ratusan potongan per kelas, dan domain sumber (foto ImageNet) dekat dengan domain target (foto berwarna dari kamera robot), meskipun potongan kami buram karena gerakan. Mode `scratch` dilatih sebagai pembanding untuk menunjukkan manfaat bobot pretrained. Mode akhir dipilih dari akurasi validasi dan stabilitas antar seed.
 
-## 5. Rencana data
-- Sumber saat ini: 181 citra (ekspor Roboflow v1) anotasi sendiri, 3 kelas, semua kelas > 50 citra. Diambil 24 September 2026 di lab BRAIL, cahaya netral, dari kamera robot yang dijalankan dan di-capture tiap 0,5 detik (satu rekaman). Kelas `ball` adalah bola tenis.
-- Kelemahan: seluruhnya satu rekaman (frame 1530-1710) dengan split acak, berisiko leakage.
-- Rencana: split berbasis blok frame berjeda (`scripts/split_by_block.py`), lalu menambah rekaman dari sesi/lokasi/cahaya berbeda, khusus untuk test set.
-- Metadata per citra (`dataset_raw/metadata.csv`): nama file, split, kelas, jumlah kotak, tanggal, kondisi cahaya, sesi.
+## 8. Rencana data
+- Sumber: kamera robot, 24 September 2026, lab BRAIL, cahaya netral, di-capture tiap 0,5 detik saat robot dijalankan (satu rekaman, 181 frame).
+- Anotasi kotak di Roboflow untuk tiga kelas, dipotong menjadi dataset klasifikasi: **154 backboard, 156 ball, 164 rim, 173 latar** (≥ 50 per kelas).
+- Split berdasarkan **blok frame berurutan dengan jeda** (train 70%, valid 15%, test 15%), bukan acak, untuk mencegah data leakage (slide 22).
+- Variasi yang belum ada: cahaya redup atau berjendela, lokasi lain, jarak jauh, bola di tangan atau di udara. Direncanakan sesi berikutnya.
 
-## 6. Metrik evaluasi
-mAP50 dan mAP50-95 (val dan test), epoch ke mAP50 ≥ 0,9, waktu latih, confusion matrix, serta latensi (pre/inferensi/post) dan FPS pada perangkat target.
-
-## 7. Risiko dan mitigasi
+## 9. Risiko dan mitigasi
 | Risiko | Mitigasi |
 |---|---|
-| Data leakage (frame berurutan terbagi ke train dan val/test) | Split berbasis blok frame; test dari sesi baru |
-| Bola kecil, jauh, atau blur saat robot bergerak | Tambah data kondisi jarak jauh dan blur; pertimbangkan `imgsz` lebih besar dan augmentasi blur |
-| Perubahan pencahayaan dan latar venue berbeda | Rekam di beberapa lokasi dan jam; augmentasi HSV |
-| Latensi melebihi 67 ms | Gunakan YOLOv8n; ekspor ke format teroptimasi (ONNX/TensorRT) |
-| Rasio aspek citra latih berbeda dari kamera (resize stretch 640×480 pada ekspor Roboflow) | Ekspor ulang tanpa stretch (resize Fit) dan latih dengan `imgsz=640` |
-| Dataset kecil, hasil tidak stabil antar run | Laporkan beberapa seed bila waktu cukup |
+| Data leakage: frame berurutan mirip masuk ke train dan test | Split blok berjeda; test dari sesi baru bila tersedia |
+| Hanya satu sesi, cahaya netral: model gagal di venue lain | Rekam sesi tambahan (cahaya redup, lokasi lain); augmentasi ColorJitter |
+| Potongan bola sangat kecil (median ≈ 26 × 33 piksel) lalu diperbesar ke 224 × 224 sehingga detailnya hilang | Beri konteks (15% di sekeliling kotak); uji ukuran masukan lebih besar atau kamera lebih dekat |
+| Motion blur saat kamera di kepala bergerak | Sertakan sampel buram di train (sudah ada); uji kecepatan rana kamera |
+| Test set kecil (≈ 100 potongan), hasil berfluktuasi | Ulangi dengan 3 seed dan laporkan rata-rata ± simpangan baku |
+| Latensi di Jetson melebihi anggaran | Beralih ke MobileNetV3-Large; TensorRT FP16 |

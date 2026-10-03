@@ -1,6 +1,5 @@
-ultralytics==8.4.161
-pandas
+torch
+torchvision
+numpy
+pillow
 matplotlib
-opencv-python-headless
-onnx
-onnxruntime

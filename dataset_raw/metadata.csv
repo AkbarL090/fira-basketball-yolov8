@@ -1,182 +1,648 @@
-nama_file,split,kelas,jumlah_kotak,tanggal,kondisi_cahaya,sesi
-1530_jpg.rf.4ed73f20b826b4117fabba13b3dca6f2.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1531_jpg.rf.0c98cdfeee490a4a68279e6ad1033e0e.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1534_jpg.rf.b572d027739b4bb0f7462f6c840e0239.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1535_jpg.rf.1a5c356f3a4dfd7486738d1d2672e559.jpg,train,backboard;ball,2,2026-09-24,netral,BRAIL-24Sep
-1537_jpg.rf.cd625d9cbccac081c5a483bf89a731d7.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1538_jpg.rf.d04b4152207d38b11dcfc3fdc3a68317.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1539_jpg.rf.ae851e92d37d71c0917647286cf75aaf.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1541_jpg.rf.245ff4518d60754667f92d7c0ee352e7.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1542_jpg.rf.6dab887719225c6eeb8f827d0cf32f2c.jpg,train,ball;rim,2,2026-09-24,netral,BRAIL-24Sep
-1543_jpg.rf.60e5c4cc91367734857fe633355747ed.jpg,train,ball,1,2026-09-24,netral,BRAIL-24Sep
-1545_jpg.rf.686681611ac8f2420ad4ab9cfd0e5d71.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1546_jpg.rf.d6f38870c07082df757f28edc18ad780.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1547_jpg.rf.3c32636db477b3983918a526d0df1740.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1548_jpg.rf.ff860453c85d76048bb16488d0087dbf.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1549_jpg.rf.e26da6cf40016fe89bc2bc7fa0048fec.jpg,train,ball;rim,2,2026-09-24,netral,BRAIL-24Sep
-1550_jpg.rf.cb42bc1c9a6142823404154f6eaadf2e.jpg,train,rim,1,2026-09-24,netral,BRAIL-24Sep
-1551_jpg.rf.e4958d48bf84d2bf8564aa63cc5ffdd6.jpg,train,ball,1,2026-09-24,netral,BRAIL-24Sep
-1552_jpg.rf.a6f4b5915719f2f79416fc27f44e5a83.jpg,train,rim,2,2026-09-24,netral,BRAIL-24Sep
-1553_jpg.rf.67ea0b92d9694c22c98c171ce05d2e32.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1554_jpg.rf.eb38b3ac2341fa38f39d3e5c7baed4e5.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1555_jpg.rf.2f2abe409dfa4cd0ba5fa706a7d9c8c4.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1556_jpg.rf.ebf5300732cf9589f3d2e7d403ec45ac.jpg,train,ball,1,2026-09-24,netral,BRAIL-24Sep
-1558_jpg.rf.7015305d51da00f2528a5cd64573170c.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1559_jpg.rf.8273573351ef7b644e3a0d819d27a8f6.jpg,train,ball;rim,2,2026-09-24,netral,BRAIL-24Sep
-1560_jpg.rf.23e5d4049b2ab8c32b41f53c12fe595d.jpg,train,ball,1,2026-09-24,netral,BRAIL-24Sep
-1561_jpg.rf.460c971921f7b8f27fa4543bfaf2ecf0.jpg,train,ball,1,2026-09-24,netral,BRAIL-24Sep
-1562_jpg.rf.fcd71b54bd2e03528cc9e6f1b758e81b.jpg,train,ball,1,2026-09-24,netral,BRAIL-24Sep
-1563_jpg.rf.e15af127aaf9300a00863cab548adff6.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1564_jpg.rf.87c14888d99729cf4cf4847a0efb491c.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1565_jpg.rf.82aa62e92d8a62ca01bafe69c3bcf105.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1566_jpg.rf.4763fa15363fcfbeb5e42f3310cedc35.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1567_jpg.rf.5e4038c024cf026227539adb81742e03.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1568_jpg.rf.544a4a4039919cc20c888e31521deac5.jpg,train,ball,1,2026-09-24,netral,BRAIL-24Sep
-1569_jpg.rf.db21695290de5770d13b333f34f5611a.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1570_jpg.rf.ed2ee3114936054304a84fc93de6b898.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1571_jpg.rf.87bd46915098ef00cbd216f038880d21.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1572_jpg.rf.34867720112c7d41f28fd829aba38a0e.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1573_jpg.rf.a2cf369a113c5e7b5382d3c042d09dd8.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1574_jpg.rf.bcd12b782382bd630d92f34257e1cd5b.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1575_jpg.rf.7bceafba6d38b8c2f8c77e04c5a6eec3.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1576_jpg.rf.a16390a0f1ccc7ac71d68e7530d041fe.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1577_jpg.rf.f5a449823b1e1096296a8fcbc1cb0053.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1579_jpg.rf.767508d9af3098bfe992c561460d7e77.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1580_jpg.rf.ed014dcbadc7c1e76b87e281d02d3aee.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1581_jpg.rf.774719ad24a01cb5831c4bcc89a4b896.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1582_jpg.rf.7e271141d924e3c44561c00cfe6c1177.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1583_jpg.rf.275be7391bfeaaad75fd79f8039feec3.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1584_jpg.rf.dd7efa5876dc2df662d5851717644726.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1585_jpg.rf.17253967304344b2724634210240b85a.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1586_jpg.rf.8149b19e5ee27f6bd0f068014f8ae051.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1587_jpg.rf.a2e29a1ee1f781bcf6d8c2c6671e84c2.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1588_jpg.rf.64bee57b2400bf98b1fdac1cfcae12c2.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1589_jpg.rf.f24775fd5216786f42cf5c61cea8efa5.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1590_jpg.rf.b1e5d9165518435071e3f433a68403cd.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1591_jpg.rf.5c5107408016e923f4a396a0a5abecb1.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1592_jpg.rf.621ff1c924bd9c5aaec7965496f9e76e.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1593_jpg.rf.1268af5d5bcc2e111b63a506104408ee.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1594_jpg.rf.036b4fd2da5d768c2bd1d82b191a7d71.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1595_jpg.rf.d552c0ad23267f5b72fc976026c3f6b4.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1596_jpg.rf.f6d62443f528c7365dbe3ae4810c7b1e.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1597_jpg.rf.4a5539b7373190f90c8bd5488f05dc08.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1598_jpg.rf.450d139812ee2dc3408324095a79e632.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1599_jpg.rf.d2c4f5e2421ffb62adce5ed9732a2365.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1600_jpg.rf.dedafc554218632dc088d012ef51c561.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1601_jpg.rf.1f9c7c0c67ef04f650f3099b12a4a3b7.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1603_jpg.rf.50ddd6f0331be85bdebb413c30e06f11.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1604_jpg.rf.dbc274ada364718e0c4eace93d638c8b.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1605_jpg.rf.01609b7719a89ae83d9dd16d57aef4d4.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1606_jpg.rf.4dc40aec58ac6d76bc3df99ccecd6ecb.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1607_jpg.rf.733fc5473759ccbb0070129adcb73bf2.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1608_jpg.rf.6a5e8d2157294a84e4406017de43c37c.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1610_jpg.rf.cb28dc0330a2df356e0e299434e93a14.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1611_jpg.rf.3698b4ab4d50b38c2c526a6b145d3631.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1614_jpg.rf.17466f664c084aabecefe5cf9b10baee.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1615_jpg.rf.04ab7e4bc21874bf654c6aa8e278f852.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1616_jpg.rf.6ae8dfdd289c910a2bb2e38e2177f920.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1618_jpg.rf.397e1992e63f09ec31375bd9465374c9.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1620_jpg.rf.64785f0b3ff457edaa6a8d489ec733f8.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1621_jpg.rf.074b50c72f0cb5d3d38f76eb0b1f8afd.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1622_jpg.rf.def53ac21334ac88e60c58a7529ee4bf.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1623_jpg.rf.e8e85d56a1e93f01a7490329d64cfc25.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1625_jpg.rf.96d0dff4a067173587bbb2b6aaf4c887.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1626_jpg.rf.b4e5593a6fa84754052c83f431b701eb.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1627_jpg.rf.e722547c91f2e844a714150da6e92e66.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1628_jpg.rf.4c08367a0919b6747d883bb5b4ccab81.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1629_jpg.rf.10481777cad8f818db7d5a1d841f8036.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1630_jpg.rf.048cc1b3413e71e76a3e0cb60e58751f.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1631_jpg.rf.2eb137fd678f89fe01d7b1d82d85e0cd.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1632_jpg.rf.ad7d715b9f7e69a575046264f8b45a88.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1634_jpg.rf.52d402d5c945a2560d350b69258b6583.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1635_jpg.rf.49a9bf493e8c3a25926dc02143125d6b.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1636_jpg.rf.dd7c78e2581075ac2c28a51bfae09de2.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1637_jpg.rf.fc179ebb706dd5d9273d37a06258fa28.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1638_jpg.rf.ae0dc0099e27a8ccc34c08dd592b03e0.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1639_jpg.rf.366df5ed85d43a80a59d9b474321de02.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1640_jpg.rf.65ea2b660515a7151499e6f3d2d3a0a2.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1641_jpg.rf.563706d624f21a150a414ca4a30990c0.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1642_jpg.rf.f36c12e0f3abf1d658567cb89a059cef.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1643_jpg.rf.51bf6dc6c410790b3b506d5368cf2c69.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1644_jpg.rf.fefb6c264ba5612598ff40440acb1f26.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1645_jpg.rf.4cc551e8001b814d769aabd6195bdd81.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1646_jpg.rf.245870b163e26b5750ebde27b9de2c5b.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1647_jpg.rf.77d3055889db2d8c8745b405e1165e5d.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1648_jpg.rf.0d34381b3b66312a8a7579a0551e9a8d.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1649_jpg.rf.5f2c599265c7bc20b673f90bc305edfa.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1650_jpg.rf.044c981cfdc5a77cf46e8484d21da638.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1651_jpg.rf.7896cf48bae83d173df0374f23407db6.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1652_jpg.rf.855cdf03cea69509c220c57aa6e8f86a.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1653_jpg.rf.866d858056ce4a2cc820b0511d5bc95d.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1654_jpg.rf.834a27143ca3cd1cdf1c641461ea8c52.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1655_jpg.rf.9d2b57039f14313e3c40fef076283d31.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1656_jpg.rf.73985629f0152d3ca3ae85bfe70a132d.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1657_jpg.rf.a1c6f5542f2c1e95831cb4fba973a146.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1658_jpg.rf.b0534b3216d434aa9ec89befb2259ed2.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1659_jpg.rf.f30d175ffa18a083dd394f2354549b28.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1661_jpg.rf.cfe723745eb47ecc8cce9322913c29ca.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1662_jpg.rf.018ef709838d8ca13ecd4bda48d80d82.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1663_jpg.rf.71476d5d5f760442d5846e62ea36eef4.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1664_jpg.rf.3043898f9108eaa26ddc9a24138c0239.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1665_jpg.rf.6ee6f393d7983019156c516e8d0a1828.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1669_jpg.rf.5e2cc41533db0138fc167728fa10f9b7.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1670_jpg.rf.626e33f6a03bd765afd4773d30e2b2c8.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1671_jpg.rf.a044bcca312365456d1b3ed379553373.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1672_jpg.rf.f9caeb4c0f3829016417163cc0f42b5f.jpg,train,ball;rim,2,2026-09-24,netral,BRAIL-24Sep
-1673_jpg.rf.d264e2ebdf4c7c1f57cc38483a03123c.jpg,train,backboard;ball,2,2026-09-24,netral,BRAIL-24Sep
-1674_jpg.rf.d7a2f8bc10f88f9f51e8e7ed5bffefdb.jpg,train,ball;rim,2,2026-09-24,netral,BRAIL-24Sep
-1676_jpg.rf.c1bc657ceb77fd9cbf4a7758c99d57df.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1677_jpg.rf.c91e58122a3055ddbe1c904983d84413.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1679_jpg.rf.3735eccb008a656492809e9b7fc097e1.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1680_jpg.rf.a26f17a2c6ef9f1d91a7ce0d000d8f79.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1683_jpg.rf.5c49b13fefe8e8823e60e923f42d6c3f.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1684_jpg.rf.4627e45429c615de2028aabb9e549195.jpg,train,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1685_jpg.rf.29c94c947f2b06bfc5504b172f25c591.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1686_jpg.rf.3c6aa94ec1a6edf0d2e285ab5899d0b2.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1687_jpg.rf.622edc8e4f31374e1f1c89d01a12e3ef.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1688_jpg.rf.9a250e094a7d14f7db2fd1445dc9c2cd.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1689_jpg.rf.6f0a1fcefc668efb4618320207ce0944.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1690_jpg.rf.115712fb48815ef7b4ff7647da984cf4.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1691_jpg.rf.cbaf26a287cb907b0f54660e46d7e96d.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1692_jpg.rf.528e518b7b0b82a7664ee179f87cb447.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1693_jpg.rf.42f174ae3cdc6fdb9432d27b51743e64.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1694_jpg.rf.bd13b3c60e4a3933bd5b2f66be0f5ff3.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1695_jpg.rf.b60246ca7bcd12a03718b4a464c98fcb.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1696_jpg.rf.e10ec09e10bd2ba9fabf24f83a27f23a.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1698_jpg.rf.71bf1fe469d2bae645211bf7ac51066b.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1700_jpg.rf.6219e38628137284fc6302351a24fc1a.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1701_jpg.rf.e8ac5eb1874fe2dbdfab56dace972bf9.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1702_jpg.rf.c417c4552401513bd532a60632acc2f7.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1703_jpg.rf.9e762ce1f51199fce0d1052c7f5c912a.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1705_jpg.rf.1f55c5769e2fa904072e0bc12224251c.jpg,train,backboard;ball,2,2026-09-24,netral,BRAIL-24Sep
-1707_jpg.rf.b1ba713a1ad34c29871fd9a72c0e91a3.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1708_jpg.rf.e01f0a8843a9068fcee114c23638307f.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1709_jpg.rf.d08851da80db988cc54cbea42b108853.jpg,train,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1710_jpg.rf.c0895a2b799a44da7933819104c493ab.jpg,train,ball;rim,2,2026-09-24,netral,BRAIL-24Sep
-1536_jpg.rf.278b00a8297b03db0f2f8fee10a6fdbc.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1544_jpg.rf.69f6f8889f75228f0892ef023468d8be.jpg,valid,ball;rim,2,2026-09-24,netral,BRAIL-24Sep
-1557_jpg.rf.77f935fe316e9e16c3126401f01d3439.jpg,valid,ball;rim,2,2026-09-24,netral,BRAIL-24Sep
-1578_jpg.rf.7d8c5e34fcc1887d714c2bba54c728a9.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1602_jpg.rf.d9ca779743e9b4d89bb20ca8c4345ec9.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1609_jpg.rf.9737c3a0d8426ff12fefa1822c82c36a.jpg,valid,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1612_jpg.rf.a27ef05146a922a4b525cd67e2093536.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1613_jpg.rf.13021fca54c24f9eba04c2319139b71a.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1619_jpg.rf.c2496a7682781b888553af52e267b259.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1624_jpg.rf.e775c69ad9de1266172f5dd04fdc2782.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1660_jpg.rf.62cc45f7260f733ffc5164ef9c2b4fad.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1666_jpg.rf.d4fab26afd69aac084083761ae89812a.jpg,valid,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1667_jpg.rf.7ad55315f3b59d8455e2d32f182bdb5b.jpg,valid,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1668_jpg.rf.0335b137dcde17d169f73f0a8dc2358b.jpg,valid,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1675_jpg.rf.d287a54071adff948993092c1c3db5a3.jpg,valid,ball,1,2026-09-24,netral,BRAIL-24Sep
-1678_jpg.rf.39e529fee835aa757cffb340e3f10d6b.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1681_jpg.rf.41fcacf1e09b98a1f14f8c99879b4f86.jpg,valid,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1704_jpg.rf.90ab49749458a25534e2a4a981c28473.jpg,valid,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1532_jpg.rf.8e2a8960951765c324dd963e895007ca.jpg,test,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1533_jpg.rf.f26c712279e75ac71cbbea49522676f0.jpg,test,ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1540_jpg.rf.43991034ab43c6d54b6735460751210c.jpg,test,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1617_jpg.rf.e3247327cf5ebc97c45de6e94ba91310.jpg,test,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1633_jpg.rf.20f2e471bd143be93c434c61df2b2100.jpg,test,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1682_jpg.rf.323df2b77846bf551ef3d1dfc881a3d0.jpg,test,backboard;rim,2,2026-09-24,netral,BRAIL-24Sep
-1697_jpg.rf.3869c48210e1ea7aeff7ec5fc1d5a793.jpg,test,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1699_jpg.rf.1259e04aaf552c3b49c55a17a2324caf.jpg,test,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
-1706_jpg.rf.efae84d67cb4f8c83d35dba8c16d6fa1.jpg,test,backboard;ball;rim,3,2026-09-24,netral,BRAIL-24Sep
+nama_file,kelas,split,frame,sumber_frame,bbox_xyxy,tanggal,kondisi_cahaya,sesi,kamera
+ball/ball_20260924_netral_001.jpg,ball,train,1530,1530_jpg.rf.4ed73f20b826b4117fabba13b3dca6f2.jpg,"342,420,368,450",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_001.jpg,rim,train,1530,1530_jpg.rf.4ed73f20b826b4117fabba13b3dca6f2.jpg,"371,253,401,317",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_001.jpg,backboard,train,1530,1530_jpg.rf.4ed73f20b826b4117fabba13b3dca6f2.jpg,"359,184,424,278",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_001.jpg,latar,train,1530,1530_jpg.rf.4ed73f20b826b4117fabba13b3dca6f2.jpg,"265,261,304,324",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_002.jpg,rim,train,1531,1531_jpg.rf.0c98cdfeee490a4a68279e6ad1033e0e.jpg,"365,250,405,314",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_002.jpg,backboard,train,1531,1531_jpg.rf.0c98cdfeee490a4a68279e6ad1033e0e.jpg,"358,185,421,273",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_002.jpg,ball,train,1531,1531_jpg.rf.0c98cdfeee490a4a68279e6ad1033e0e.jpg,"341,420,367,450",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_002.jpg,latar,train,1531,1531_jpg.rf.0c98cdfeee490a4a68279e6ad1033e0e.jpg,"310,244,372,349",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_003.jpg,ball,train,1532,1532_jpg.rf.8e2a8960951765c324dd963e895007ca.jpg,"343,420,367,451",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_003.jpg,rim,train,1532,1532_jpg.rf.8e2a8960951765c324dd963e895007ca.jpg,"369,253,406,317",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_003.jpg,backboard,train,1532,1532_jpg.rf.8e2a8960951765c324dd963e895007ca.jpg,"357,183,424,275",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_003.jpg,latar,train,1532,1532_jpg.rf.8e2a8960951765c324dd963e895007ca.jpg,"516,71,560,153",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_004.jpg,rim,train,1533,1533_jpg.rf.f26c712279e75ac71cbbea49522676f0.jpg,"358,185,422,275",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_005.jpg,rim,train,1533,1533_jpg.rf.f26c712279e75ac71cbbea49522676f0.jpg,"369,252,405,316",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_004.jpg,ball,train,1533,1533_jpg.rf.f26c712279e75ac71cbbea49522676f0.jpg,"342,418,367,452",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_004.jpg,latar,train,1533,1533_jpg.rf.f26c712279e75ac71cbbea49522676f0.jpg,"256,272,288,322",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_004.jpg,backboard,train,1534,1534_jpg.rf.b572d027739b4bb0f7462f6c840e0239.jpg,"358,183,422,276",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_006.jpg,rim,train,1534,1534_jpg.rf.b572d027739b4bb0f7462f6c840e0239.jpg,"366,253,406,314",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_005.jpg,ball,train,1534,1534_jpg.rf.b572d027739b4bb0f7462f6c840e0239.jpg,"343,419,368,450",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_005.jpg,latar,train,1534,1534_jpg.rf.b572d027739b4bb0f7462f6c840e0239.jpg,"317,50,350,92",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_006.jpg,ball,train,1535,1535_jpg.rf.1a5c356f3a4dfd7486738d1d2672e559.jpg,"338,273,364,332",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_005.jpg,backboard,train,1535,1535_jpg.rf.1a5c356f3a4dfd7486738d1d2672e559.jpg,"360,33,425,155",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_006.jpg,latar,train,1535,1535_jpg.rf.1a5c356f3a4dfd7486738d1d2672e559.jpg,"483,286,519,354",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_006.jpg,backboard,train,1536,1536_jpg.rf.278b00a8297b03db0f2f8fee10a6fdbc.jpg,"398,39,462,149",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_007.jpg,rim,train,1536,1536_jpg.rf.278b00a8297b03db0f2f8fee10a6fdbc.jpg,"403,117,438,178",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_007.jpg,ball,train,1536,1536_jpg.rf.278b00a8297b03db0f2f8fee10a6fdbc.jpg,"368,279,392,323",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_007.jpg,latar,train,1536,1536_jpg.rf.278b00a8297b03db0f2f8fee10a6fdbc.jpg,"209,282,270,378",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_008.jpg,ball,train,1537,1537_jpg.rf.cd625d9cbccac081c5a483bf89a731d7.jpg,"467,332,494,366",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_008.jpg,rim,train,1537,1537_jpg.rf.cd625d9cbccac081c5a483bf89a731d7.jpg,"521,173,566,244",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_007.jpg,backboard,train,1537,1537_jpg.rf.cd625d9cbccac081c5a483bf89a731d7.jpg,"518,98,598,216",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_008.jpg,latar,train,1537,1537_jpg.rf.cd625d9cbccac081c5a483bf89a731d7.jpg,"63,280,111,353",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_009.jpg,ball,train,1538,1538_jpg.rf.d04b4152207d38b11dcfc3fdc3a68317.jpg,"451,320,477,352",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_009.jpg,rim,train,1538,1538_jpg.rf.d04b4152207d38b11dcfc3fdc3a68317.jpg,"501,161,544,231",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_008.jpg,backboard,train,1538,1538_jpg.rf.d04b4152207d38b11dcfc3fdc3a68317.jpg,"497,84,571,197",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_009.jpg,latar,train,1538,1538_jpg.rf.d04b4152207d38b11dcfc3fdc3a68317.jpg,"1,313,25,356",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_009.jpg,backboard,train,1539,1539_jpg.rf.ae851e92d37d71c0917647286cf75aaf.jpg,"447,69,526,165",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_010.jpg,rim,train,1539,1539_jpg.rf.ae851e92d37d71c0917647286cf75aaf.jpg,"457,142,496,204",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_010.jpg,ball,train,1539,1539_jpg.rf.ae851e92d37d71c0917647286cf75aaf.jpg,"412,303,438,333",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_010.jpg,latar,train,1539,1539_jpg.rf.ae851e92d37d71c0917647286cf75aaf.jpg,"333,360,384,418",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_010.jpg,backboard,train,1540,1540_jpg.rf.43991034ab43c6d54b6735460751210c.jpg,"398,42,475,150",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_011.jpg,rim,train,1540,1540_jpg.rf.43991034ab43c6d54b6735460751210c.jpg,"408,116,450,182",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_011.jpg,ball,train,1540,1540_jpg.rf.43991034ab43c6d54b6735460751210c.jpg,"376,282,400,314",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_011.jpg,latar,train,1540,1540_jpg.rf.43991034ab43c6d54b6735460751210c.jpg,"244,72,308,184",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_012.jpg,ball,train,1541,1541_jpg.rf.245ff4518d60754667f92d7c0ee352e7.jpg,"345,223,376,256",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_012.jpg,rim,train,1541,1541_jpg.rf.245ff4518d60754667f92d7c0ee352e7.jpg,"378,56,412,120",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_011.jpg,backboard,train,1541,1541_jpg.rf.245ff4518d60754667f92d7c0ee352e7.jpg,"363,0,437,89",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_012.jpg,latar,train,1541,1541_jpg.rf.245ff4518d60754667f92d7c0ee352e7.jpg,"327,260,401,334",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_013.jpg,ball,train,1542,1542_jpg.rf.6dab887719225c6eeb8f827d0cf32f2c.jpg,"306,150,333,194",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_013.jpg,rim,train,1542,1542_jpg.rf.6dab887719225c6eeb8f827d0cf32f2c.jpg,"325,0,361,43",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_013.jpg,latar,train,1542,1542_jpg.rf.6dab887719225c6eeb8f827d0cf32f2c.jpg,"127,280,158,333",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_014.jpg,ball,train,1543,1543_jpg.rf.60e5c4cc91367734857fe633355747ed.jpg,"267,84,293,116",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_014.jpg,latar,train,1543,1543_jpg.rf.60e5c4cc91367734857fe633355747ed.jpg,"560,300,593,336",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_015.jpg,ball,train,1544,1544_jpg.rf.69f6f8889f75228f0892ef023468d8be.jpg,"222,170,250,202",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_014.jpg,rim,train,1544,1544_jpg.rf.69f6f8889f75228f0892ef023468d8be.jpg,"219,4,256,56",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_015.jpg,latar,train,1544,1544_jpg.rf.69f6f8889f75228f0892ef023468d8be.jpg,"394,162,434,220",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_015.jpg,rim,train,1545,1545_jpg.rf.686681611ac8f2420ad4ab9cfd0e5d71.jpg,"261,49,295,110",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_016.jpg,ball,train,1545,1545_jpg.rf.686681611ac8f2420ad4ab9cfd0e5d71.jpg,"252,224,282,252",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_012.jpg,backboard,train,1545,1545_jpg.rf.686681611ac8f2420ad4ab9cfd0e5d71.jpg,"239,0,314,66",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_016.jpg,latar,train,1545,1545_jpg.rf.686681611ac8f2420ad4ab9cfd0e5d71.jpg,"70,45,169,110",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_017.jpg,ball,train,1546,1546_jpg.rf.d6f38870c07082df757f28edc18ad780.jpg,"310,267,340,304",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_016.jpg,rim,train,1546,1546_jpg.rf.d6f38870c07082df757f28edc18ad780.jpg,"333,103,366,160",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_013.jpg,backboard,train,1546,1546_jpg.rf.d6f38870c07082df757f28edc18ad780.jpg,"313,25,391,125",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_017.jpg,latar,train,1546,1546_jpg.rf.d6f38870c07082df757f28edc18ad780.jpg,"39,41,131,164",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_018.jpg,ball,train,1547,1547_jpg.rf.3c32636db477b3983918a526d0df1740.jpg,"381,309,409,340",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_017.jpg,rim,train,1547,1547_jpg.rf.3c32636db477b3983918a526d0df1740.jpg,"420,140,457,207",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_014.jpg,backboard,train,1547,1547_jpg.rf.3c32636db477b3983918a526d0df1740.jpg,"407,68,483,175",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_018.jpg,latar,train,1547,1547_jpg.rf.3c32636db477b3983918a526d0df1740.jpg,"400,361,498,470",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_015.jpg,backboard,train,1548,1548_jpg.rf.ff860453c85d76048bb16488d0087dbf.jpg,"505,97,581,218",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_018.jpg,rim,train,1548,1548_jpg.rf.ff860453c85d76048bb16488d0087dbf.jpg,"510,174,548,242",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_019.jpg,ball,train,1548,1548_jpg.rf.ff860453c85d76048bb16488d0087dbf.jpg,"455,330,482,368",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_019.jpg,latar,train,1548,1548_jpg.rf.ff860453c85d76048bb16488d0087dbf.jpg,"220,347,246,397",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_020.jpg,ball,train,1549,1549_jpg.rf.e26da6cf40016fe89bc2bc7fa0048fec.jpg,"461,184,486,227",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_019.jpg,rim,train,1549,1549_jpg.rf.e26da6cf40016fe89bc2bc7fa0048fec.jpg,"524,49,558,107",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_020.jpg,latar,train,1549,1549_jpg.rf.e26da6cf40016fe89bc2bc7fa0048fec.jpg,"365,42,406,102",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_020.jpg,rim,train,1550,1550_jpg.rf.cb42bc1c9a6142823404154f6eaadf2e.jpg,"380,87,410,125",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_021.jpg,latar,train,1550,1550_jpg.rf.cb42bc1c9a6142823404154f6eaadf2e.jpg,"343,432,380,474",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_021.jpg,ball,train,1551,1551_jpg.rf.e4958d48bf84d2bf8564aa63cc5ffdd6.jpg,"291,95,319,128",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_022.jpg,latar,train,1551,1551_jpg.rf.e4958d48bf84d2bf8564aa63cc5ffdd6.jpg,"119,361,146,403",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_021.jpg,rim,train,1552,1552_jpg.rf.a6f4b5915719f2f79416fc27f44e5a83.jpg,"236,173,259,210",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_022.jpg,rim,train,1552,1552_jpg.rf.a6f4b5915719f2f79416fc27f44e5a83.jpg,"233,7,275,63",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_023.jpg,latar,train,1552,1552_jpg.rf.a6f4b5915719f2f79416fc27f44e5a83.jpg,"436,417,460,452",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_022.jpg,ball,train,1553,1553_jpg.rf.67ea0b92d9694c22c98c171ce05d2e32.jpg,"268,238,294,273",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_023.jpg,rim,train,1553,1553_jpg.rf.67ea0b92d9694c22c98c171ce05d2e32.jpg,"276,71,314,126",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_016.jpg,backboard,train,1553,1553_jpg.rf.67ea0b92d9694c22c98c171ce05d2e32.jpg,"257,0,333,92",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_024.jpg,latar,train,1553,1553_jpg.rf.67ea0b92d9694c22c98c171ce05d2e32.jpg,"224,23,247,56",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_023.jpg,ball,train,1554,1554_jpg.rf.eb38b3ac2341fa38f39d3e5c7baed4e5.jpg,"372,260,400,297",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_024.jpg,rim,train,1554,1554_jpg.rf.eb38b3ac2341fa38f39d3e5c7baed4e5.jpg,"414,100,446,158",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_017.jpg,backboard,train,1554,1554_jpg.rf.eb38b3ac2341fa38f39d3e5c7baed4e5.jpg,"399,25,473,125",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_025.jpg,latar,train,1554,1554_jpg.rf.eb38b3ac2341fa38f39d3e5c7baed4e5.jpg,"75,13,157,141",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_025.jpg,rim,train,1555,1555_jpg.rf.2f2abe409dfa4cd0ba5fa706a7d9c8c4.jpg,"487,101,523,156",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_018.jpg,backboard,train,1555,1555_jpg.rf.2f2abe409dfa4cd0ba5fa706a7d9c8c4.jpg,"482,18,555,135",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_024.jpg,ball,train,1555,1555_jpg.rf.2f2abe409dfa4cd0ba5fa706a7d9c8c4.jpg,"434,247,460,286",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_026.jpg,latar,train,1555,1555_jpg.rf.2f2abe409dfa4cd0ba5fa706a7d9c8c4.jpg,"589,61,632,123",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_025.jpg,ball,train,1556,1556_jpg.rf.ebf5300732cf9589f3d2e7d403ec45ac.jpg,"434,85,463,124",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_027.jpg,latar,train,1556,1556_jpg.rf.ebf5300732cf9589f3d2e7d403ec45ac.jpg,"118,18,144,70",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_026.jpg,ball,train,1557,1557_jpg.rf.77f935fe316e9e16c3126401f01d3439.jpg,"362,155,388,196",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_026.jpg,rim,train,1557,1557_jpg.rf.77f935fe316e9e16c3126401f01d3439.jpg,"396,5,432,57",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_028.jpg,latar,train,1557,1557_jpg.rf.77f935fe316e9e16c3126401f01d3439.jpg,"126,245,151,301",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_027.jpg,ball,train,1558,1558_jpg.rf.7015305d51da00f2528a5cd64573170c.jpg,"357,234,383,266",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_027.jpg,rim,train,1558,1558_jpg.rf.7015305d51da00f2528a5cd64573170c.jpg,"390,69,424,129",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_019.jpg,backboard,train,1558,1558_jpg.rf.7015305d51da00f2528a5cd64573170c.jpg,"377,0,450,93",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_029.jpg,latar,train,1558,1558_jpg.rf.7015305d51da00f2528a5cd64573170c.jpg,"23,278,56,305",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_028.jpg,ball,train,1559,1559_jpg.rf.8273573351ef7b644e3a0d819d27a8f6.jpg,"355,157,381,201",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_028.jpg,rim,train,1559,1559_jpg.rf.8273573351ef7b644e3a0d819d27a8f6.jpg,"389,8,423,60",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_030.jpg,latar,train,1559,1559_jpg.rf.8273573351ef7b644e3a0d819d27a8f6.jpg,"71,113,112,179",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_029.jpg,ball,train,1560,1560_jpg.rf.23e5d4049b2ab8c32b41f53c12fe595d.jpg,"373,1,402,35",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_031.jpg,latar,train,1560,1560_jpg.rf.23e5d4049b2ab8c32b41f53c12fe595d.jpg,"184,31,219,67",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_030.jpg,ball,train,1561,1561_jpg.rf.460c971921f7b8f27fa4543bfaf2ecf0.jpg,"362,44,387,89",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_032.jpg,latar,train,1561,1561_jpg.rf.460c971921f7b8f27fa4543bfaf2ecf0.jpg,"400,102,421,140",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_031.jpg,ball,train,1562,1562_jpg.rf.fcd71b54bd2e03528cc9e6f1b758e81b.jpg,"350,75,374,128",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_033.jpg,latar,train,1562,1562_jpg.rf.fcd71b54bd2e03528cc9e6f1b758e81b.jpg,"583,86,608,151",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_032.jpg,ball,train,1563,1563_jpg.rf.e15af127aaf9300a00863cab548adff6.jpg,"311,248,338,280",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_029.jpg,rim,train,1563,1563_jpg.rf.e15af127aaf9300a00863cab548adff6.jpg,"336,78,370,136",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_020.jpg,backboard,train,1563,1563_jpg.rf.e15af127aaf9300a00863cab548adff6.jpg,"317,3,389,106",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_034.jpg,latar,train,1563,1563_jpg.rf.e15af127aaf9300a00863cab548adff6.jpg,"59,346,140,477",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_021.jpg,backboard,train,1564,1564_jpg.rf.87c14888d99729cf4cf4847a0efb491c.jpg,"311,0,382,91",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_030.jpg,rim,train,1564,1564_jpg.rf.87c14888d99729cf4cf4847a0efb491c.jpg,"326,74,362,128",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_033.jpg,ball,train,1564,1564_jpg.rf.87c14888d99729cf4cf4847a0efb491c.jpg,"307,237,331,273",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_035.jpg,latar,train,1564,1564_jpg.rf.87c14888d99729cf4cf4847a0efb491c.jpg,"13,241,45,285",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_022.jpg,backboard,train,1565,1565_jpg.rf.82aa62e92d8a62ca01bafe69c3bcf105.jpg,"313,39,383,143",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_031.jpg,rim,train,1565,1565_jpg.rf.82aa62e92d8a62ca01bafe69c3bcf105.jpg,"325,120,365,178",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_034.jpg,ball,train,1565,1565_jpg.rf.82aa62e92d8a62ca01bafe69c3bcf105.jpg,"306,279,332,324",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_036.jpg,latar,train,1565,1565_jpg.rf.82aa62e92d8a62ca01bafe69c3bcf105.jpg,"520,159,548,210",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_035.jpg,ball,train,1566,1566_jpg.rf.4763fa15363fcfbeb5e42f3310cedc35.jpg,"306,316,334,348",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_032.jpg,rim,train,1566,1566_jpg.rf.4763fa15363fcfbeb5e42f3310cedc35.jpg,"328,147,363,209",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_023.jpg,backboard,train,1566,1566_jpg.rf.4763fa15363fcfbeb5e42f3310cedc35.jpg,"314,78,379,171",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_037.jpg,latar,train,1566,1566_jpg.rf.4763fa15363fcfbeb5e42f3310cedc35.jpg,"256,78,318,190",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_024.jpg,backboard,train,1567,1567_jpg.rf.5e4038c024cf026227539adb81742e03.jpg,"312,36,382,130",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_033.jpg,rim,train,1567,1567_jpg.rf.5e4038c024cf026227539adb81742e03.jpg,"325,111,366,166",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_036.jpg,ball,train,1567,1567_jpg.rf.5e4038c024cf026227539adb81742e03.jpg,"305,271,336,312",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_038.jpg,latar,train,1567,1567_jpg.rf.5e4038c024cf026227539adb81742e03.jpg,"80,171,119,215",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_037.jpg,ball,train,1568,1568_jpg.rf.544a4a4039919cc20c888e31521deac5.jpg,"306,116,331,149",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_039.jpg,latar,train,1568,1568_jpg.rf.544a4a4039919cc20c888e31521deac5.jpg,"493,180,522,211",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_034.jpg,rim,train,1569,1569_jpg.rf.db21695290de5770d13b333f34f5611a.jpg,"326,93,364,148",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_038.jpg,ball,train,1569,1569_jpg.rf.db21695290de5770d13b333f34f5611a.jpg,"308,258,332,292",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_025.jpg,backboard,train,1569,1569_jpg.rf.db21695290de5770d13b333f34f5611a.jpg,"314,18,379,113",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_040.jpg,latar,train,1569,1569_jpg.rf.db21695290de5770d13b333f34f5611a.jpg,"135,366,195,452",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_026.jpg,backboard,train,1570,1570_jpg.rf.ed2ee3114936054304a84fc93de6b898.jpg,"312,126,382,231",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_035.jpg,rim,train,1570,1570_jpg.rf.ed2ee3114936054304a84fc93de6b898.jpg,"326,209,362,262",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_039.jpg,ball,train,1570,1570_jpg.rf.ed2ee3114936054304a84fc93de6b898.jpg,"309,371,334,405",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_041.jpg,latar,train,1570,1570_jpg.rf.ed2ee3114936054304a84fc93de6b898.jpg,"82,0,119,53",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_027.jpg,backboard,train,1571,1571_jpg.rf.87bd46915098ef00cbd216f038880d21.jpg,"313,143,381,230",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_036.jpg,rim,train,1571,1571_jpg.rf.87bd46915098ef00cbd216f038880d21.jpg,"323,214,367,272",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_040.jpg,ball,train,1571,1571_jpg.rf.87bd46915098ef00cbd216f038880d21.jpg,"308,382,336,415",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_042.jpg,latar,train,1571,1571_jpg.rf.87bd46915098ef00cbd216f038880d21.jpg,"245,114,272,149",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_041.jpg,ball,train,1572,1572_jpg.rf.34867720112c7d41f28fd829aba38a0e.jpg,"308,381,334,410",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_037.jpg,rim,train,1572,1572_jpg.rf.34867720112c7d41f28fd829aba38a0e.jpg,"330,211,363,273",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_028.jpg,backboard,train,1572,1572_jpg.rf.34867720112c7d41f28fd829aba38a0e.jpg,"314,142,383,234",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_043.jpg,latar,train,1572,1572_jpg.rf.34867720112c7d41f28fd829aba38a0e.jpg,"424,16,492,119",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_029.jpg,backboard,train,1573,1573_jpg.rf.a2cf369a113c5e7b5382d3c042d09dd8.jpg,"314,142,381,234",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_038.jpg,rim,train,1573,1573_jpg.rf.a2cf369a113c5e7b5382d3c042d09dd8.jpg,"328,213,362,270",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_042.jpg,ball,train,1573,1573_jpg.rf.a2cf369a113c5e7b5382d3c042d09dd8.jpg,"309,382,333,408",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_044.jpg,latar,train,1573,1573_jpg.rf.a2cf369a113c5e7b5382d3c042d09dd8.jpg,"47,84,94,147",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_030.jpg,backboard,train,1574,1574_jpg.rf.bcd12b782382bd630d92f34257e1cd5b.jpg,"313,144,381,231",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_039.jpg,rim,train,1574,1574_jpg.rf.bcd12b782382bd630d92f34257e1cd5b.jpg,"326,212,365,270",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_043.jpg,ball,train,1574,1574_jpg.rf.bcd12b782382bd630d92f34257e1cd5b.jpg,"307,380,333,412",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_045.jpg,latar,train,1574,1574_jpg.rf.bcd12b782382bd630d92f34257e1cd5b.jpg,"457,270,490,339",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_031.jpg,backboard,train,1575,1575_jpg.rf.7bceafba6d38b8c2f8c77e04c5a6eec3.jpg,"313,142,382,233",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_040.jpg,rim,train,1575,1575_jpg.rf.7bceafba6d38b8c2f8c77e04c5a6eec3.jpg,"326,211,365,273",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_044.jpg,ball,train,1575,1575_jpg.rf.7bceafba6d38b8c2f8c77e04c5a6eec3.jpg,"309,381,333,411",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_046.jpg,latar,train,1575,1575_jpg.rf.7bceafba6d38b8c2f8c77e04c5a6eec3.jpg,"0,19,53,87",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_045.jpg,ball,train,1576,1576_jpg.rf.a16390a0f1ccc7ac71d68e7530d041fe.jpg,"308,379,334,411",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_041.jpg,rim,train,1576,1576_jpg.rf.a16390a0f1ccc7ac71d68e7530d041fe.jpg,"327,210,363,274",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_032.jpg,backboard,train,1576,1576_jpg.rf.a16390a0f1ccc7ac71d68e7530d041fe.jpg,"314,143,381,231",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_047.jpg,latar,train,1576,1576_jpg.rf.a16390a0f1ccc7ac71d68e7530d041fe.jpg,"51,212,88,292",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_033.jpg,backboard,train,1577,1577_jpg.rf.f5a449823b1e1096296a8fcbc1cb0053.jpg,"315,144,381,234",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_042.jpg,rim,train,1577,1577_jpg.rf.f5a449823b1e1096296a8fcbc1cb0053.jpg,"327,211,366,272",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_046.jpg,ball,train,1577,1577_jpg.rf.f5a449823b1e1096296a8fcbc1cb0053.jpg,"309,379,333,412",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_048.jpg,latar,train,1577,1577_jpg.rf.f5a449823b1e1096296a8fcbc1cb0053.jpg,"85,66,155,181",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_034.jpg,backboard,train,1578,1578_jpg.rf.7d8c5e34fcc1887d714c2bba54c728a9.jpg,"316,143,378,230",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_043.jpg,rim,train,1578,1578_jpg.rf.7d8c5e34fcc1887d714c2bba54c728a9.jpg,"327,210,364,274",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_047.jpg,ball,train,1578,1578_jpg.rf.7d8c5e34fcc1887d714c2bba54c728a9.jpg,"308,379,334,414",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_049.jpg,latar,train,1578,1578_jpg.rf.7d8c5e34fcc1887d714c2bba54c728a9.jpg,"323,1,384,99",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_048.jpg,ball,train,1579,1579_jpg.rf.767508d9af3098bfe992c561460d7e77.jpg,"309,381,333,409",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_044.jpg,rim,train,1579,1579_jpg.rf.767508d9af3098bfe992c561460d7e77.jpg,"329,215,362,271",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_035.jpg,backboard,train,1579,1579_jpg.rf.767508d9af3098bfe992c561460d7e77.jpg,"312,141,381,234",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_050.jpg,latar,train,1579,1579_jpg.rf.767508d9af3098bfe992c561460d7e77.jpg,"541,313,561,349",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_036.jpg,backboard,train,1580,1580_jpg.rf.ed014dcbadc7c1e76b87e281d02d3aee.jpg,"268,137,338,233",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_045.jpg,rim,train,1580,1580_jpg.rf.ed014dcbadc7c1e76b87e281d02d3aee.jpg,"280,210,319,267",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_049.jpg,ball,train,1580,1580_jpg.rf.ed014dcbadc7c1e76b87e281d02d3aee.jpg,"308,380,335,410",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_051.jpg,latar,train,1580,1580_jpg.rf.ed014dcbadc7c1e76b87e281d02d3aee.jpg,"203,154,262,257",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_037.jpg,backboard,train,1581,1581_jpg.rf.774719ad24a01cb5831c4bcc89a4b896.jpg,"248,139,318,226",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_046.jpg,rim,train,1581,1581_jpg.rf.774719ad24a01cb5831c4bcc89a4b896.jpg,"258,208,306,266",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_050.jpg,ball,train,1581,1581_jpg.rf.774719ad24a01cb5831c4bcc89a4b896.jpg,"307,379,334,411",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_052.jpg,latar,train,1581,1581_jpg.rf.774719ad24a01cb5831c4bcc89a4b896.jpg,"487,203,544,253",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_038.jpg,backboard,train,1582,1582_jpg.rf.7e271141d924e3c44561c00cfe6c1177.jpg,"290,138,354,233",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_047.jpg,rim,train,1582,1582_jpg.rf.7e271141d924e3c44561c00cfe6c1177.jpg,"301,211,338,265",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_051.jpg,ball,train,1582,1582_jpg.rf.7e271141d924e3c44561c00cfe6c1177.jpg,"310,381,333,413",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_053.jpg,latar,train,1582,1582_jpg.rf.7e271141d924e3c44561c00cfe6c1177.jpg,"463,409,484,441",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_052.jpg,ball,train,1583,1583_jpg.rf.275be7391bfeaaad75fd79f8039feec3.jpg,"308,380,335,414",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_048.jpg,rim,train,1583,1583_jpg.rf.275be7391bfeaaad75fd79f8039feec3.jpg,"342,215,378,284",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_039.jpg,backboard,train,1583,1583_jpg.rf.275be7391bfeaaad75fd79f8039feec3.jpg,"333,140,401,244",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_054.jpg,latar,train,1583,1583_jpg.rf.275be7391bfeaaad75fd79f8039feec3.jpg,"533,418,570,449",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_053.jpg,ball,train,1584,1584_jpg.rf.dd7efa5876dc2df662d5851717644726.jpg,"307,379,335,411",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_040.jpg,backboard,train,1584,1584_jpg.rf.dd7efa5876dc2df662d5851717644726.jpg,"361,158,429,278",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_049.jpg,rim,train,1584,1584_jpg.rf.dd7efa5876dc2df662d5851717644726.jpg,"360,237,400,310",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_055.jpg,latar,train,1584,1584_jpg.rf.dd7efa5876dc2df662d5851717644726.jpg,"158,142,206,199",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_050.jpg,rim,train,1585,1585_jpg.rf.17253967304344b2724634210240b85a.jpg,"359,237,402,305",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_041.jpg,backboard,train,1585,1585_jpg.rf.17253967304344b2724634210240b85a.jpg,"353,155,435,272",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_054.jpg,ball,train,1585,1585_jpg.rf.17253967304344b2724634210240b85a.jpg,"308,380,334,412",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_056.jpg,latar,train,1585,1585_jpg.rf.17253967304344b2724634210240b85a.jpg,"265,285,300,343",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_042.jpg,backboard,train,1586,1586_jpg.rf.8149b19e5ee27f6bd0f068014f8ae051.jpg,"326,149,400,248",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_051.jpg,rim,train,1586,1586_jpg.rf.8149b19e5ee27f6bd0f068014f8ae051.jpg,"338,219,378,291",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_055.jpg,ball,train,1586,1586_jpg.rf.8149b19e5ee27f6bd0f068014f8ae051.jpg,"307,380,334,411",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_057.jpg,latar,train,1586,1586_jpg.rf.8149b19e5ee27f6bd0f068014f8ae051.jpg,"43,383,100,476",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_043.jpg,backboard,train,1587,1587_jpg.rf.a2e29a1ee1f781bcf6d8c2c6671e84c2.jpg,"286,142,357,229",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_052.jpg,rim,train,1587,1587_jpg.rf.a2e29a1ee1f781bcf6d8c2c6671e84c2.jpg,"298,211,341,273",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_056.jpg,ball,train,1587,1587_jpg.rf.a2e29a1ee1f781bcf6d8c2c6671e84c2.jpg,"308,381,333,413",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_058.jpg,latar,train,1587,1587_jpg.rf.a2e29a1ee1f781bcf6d8c2c6671e84c2.jpg,"469,327,498,363",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_057.jpg,ball,train,1588,1588_jpg.rf.64bee57b2400bf98b1fdac1cfcae12c2.jpg,"309,378,334,408",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_053.jpg,rim,train,1588,1588_jpg.rf.64bee57b2400bf98b1fdac1cfcae12c2.jpg,"263,219,302,270",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_044.jpg,backboard,train,1588,1588_jpg.rf.64bee57b2400bf98b1fdac1cfcae12c2.jpg,"245,148,315,229",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_059.jpg,latar,train,1588,1588_jpg.rf.64bee57b2400bf98b1fdac1cfcae12c2.jpg,"212,192,252,248",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_045.jpg,backboard,train,1589,1589_jpg.rf.f24775fd5216786f42cf5c61cea8efa5.jpg,"255,140,329,232",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_054.jpg,rim,train,1589,1589_jpg.rf.f24775fd5216786f42cf5c61cea8efa5.jpg,"273,209,315,276",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_058.jpg,ball,train,1589,1589_jpg.rf.f24775fd5216786f42cf5c61cea8efa5.jpg,"306,380,337,414",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_060.jpg,latar,train,1589,1589_jpg.rf.f24775fd5216786f42cf5c61cea8efa5.jpg,"346,399,399,478",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_046.jpg,backboard,train,1590,1590_jpg.rf.b1e5d9165518435071e3f433a68403cd.jpg,"294,140,362,232",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_055.jpg,rim,train,1590,1590_jpg.rf.b1e5d9165518435071e3f433a68403cd.jpg,"306,214,344,269",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_059.jpg,ball,train,1590,1590_jpg.rf.b1e5d9165518435071e3f433a68403cd.jpg,"307,381,335,411",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_061.jpg,latar,train,1590,1590_jpg.rf.b1e5d9165518435071e3f433a68403cd.jpg,"153,298,177,328",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_060.jpg,ball,train,1591,1591_jpg.rf.5c5107408016e923f4a396a0a5abecb1.jpg,"309,378,334,411",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_047.jpg,backboard,train,1591,1591_jpg.rf.5c5107408016e923f4a396a0a5abecb1.jpg,"325,145,393,237",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_056.jpg,rim,train,1591,1591_jpg.rf.5c5107408016e923f4a396a0a5abecb1.jpg,"335,211,370,282",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_062.jpg,latar,train,1591,1591_jpg.rf.5c5107408016e923f4a396a0a5abecb1.jpg,"132,150,197,270",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_057.jpg,rim,train,1592,1592_jpg.rf.621ff1c924bd9c5aaec7965496f9e76e.jpg,"339,219,377,284",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_048.jpg,backboard,train,1592,1592_jpg.rf.621ff1c924bd9c5aaec7965496f9e76e.jpg,"329,146,398,245",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_061.jpg,ball,train,1592,1592_jpg.rf.621ff1c924bd9c5aaec7965496f9e76e.jpg,"310,380,333,410",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_063.jpg,latar,train,1592,1592_jpg.rf.621ff1c924bd9c5aaec7965496f9e76e.jpg,"49,157,91,214",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_062.jpg,ball,train,1593,1593_jpg.rf.1268af5d5bcc2e111b63a506104408ee.jpg,"331,408,359,442",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_058.jpg,rim,train,1593,1593_jpg.rf.1268af5d5bcc2e111b63a506104408ee.jpg,"340,217,377,285",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_049.jpg,backboard,train,1593,1593_jpg.rf.1268af5d5bcc2e111b63a506104408ee.jpg,"329,143,400,242",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_064.jpg,latar,train,1593,1593_jpg.rf.1268af5d5bcc2e111b63a506104408ee.jpg,"574,246,612,300",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_050.jpg,backboard,train,1594,1594_jpg.rf.036b4fd2da5d768c2bd1d82b191a7d71.jpg,"331,145,395,243",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_059.jpg,rim,train,1594,1594_jpg.rf.036b4fd2da5d768c2bd1d82b191a7d71.jpg,"339,219,375,276",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_063.jpg,ball,train,1594,1594_jpg.rf.036b4fd2da5d768c2bd1d82b191a7d71.jpg,"388,458,416,480",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_065.jpg,latar,train,1594,1594_jpg.rf.036b4fd2da5d768c2bd1d82b191a7d71.jpg,"351,63,388,134",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_051.jpg,backboard,train,1595,1595_jpg.rf.d552c0ad23267f5b72fc976026c3f6b4.jpg,"331,146,399,241",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_060.jpg,rim,train,1595,1595_jpg.rf.d552c0ad23267f5b72fc976026c3f6b4.jpg,"337,219,378,279",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_064.jpg,ball,train,1595,1595_jpg.rf.d552c0ad23267f5b72fc976026c3f6b4.jpg,"353,441,384,478",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_066.jpg,latar,train,1595,1595_jpg.rf.d552c0ad23267f5b72fc976026c3f6b4.jpg,"38,154,73,216",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_065.jpg,ball,train,1596,1596_jpg.rf.f6d62443f528c7365dbe3ae4810c7b1e.jpg,"348,378,372,409",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_061.jpg,rim,train,1596,1596_jpg.rf.f6d62443f528c7365dbe3ae4810c7b1e.jpg,"340,220,378,275",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_052.jpg,backboard,train,1596,1596_jpg.rf.f6d62443f528c7365dbe3ae4810c7b1e.jpg,"331,147,399,243",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_067.jpg,latar,train,1596,1596_jpg.rf.f6d62443f528c7365dbe3ae4810c7b1e.jpg,"170,320,218,392",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_053.jpg,backboard,train,1597,1597_jpg.rf.4a5539b7373190f90c8bd5488f05dc08.jpg,"332,146,398,241",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_062.jpg,rim,train,1597,1597_jpg.rf.4a5539b7373190f90c8bd5488f05dc08.jpg,"338,217,381,280",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_066.jpg,ball,train,1597,1597_jpg.rf.4a5539b7373190f90c8bd5488f05dc08.jpg,"317,373,343,408",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_068.jpg,latar,train,1597,1597_jpg.rf.4a5539b7373190f90c8bd5488f05dc08.jpg,"89,33,116,82",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_054.jpg,backboard,train,1598,1598_jpg.rf.450d139812ee2dc3408324095a79e632.jpg,"329,143,399,244",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_063.jpg,rim,train,1598,1598_jpg.rf.450d139812ee2dc3408324095a79e632.jpg,"337,219,381,279",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_067.jpg,ball,train,1598,1598_jpg.rf.450d139812ee2dc3408324095a79e632.jpg,"298,393,324,424",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_069.jpg,latar,train,1598,1598_jpg.rf.450d139812ee2dc3408324095a79e632.jpg,"394,4,453,87",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_055.jpg,backboard,train,1599,1599_jpg.rf.d2c4f5e2421ffb62adce5ed9732a2365.jpg,"326,145,399,241",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_064.jpg,rim,train,1599,1599_jpg.rf.d2c4f5e2421ffb62adce5ed9732a2365.jpg,"343,216,379,279",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_068.jpg,ball,train,1599,1599_jpg.rf.d2c4f5e2421ffb62adce5ed9732a2365.jpg,"263,416,293,450",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_070.jpg,latar,train,1599,1599_jpg.rf.d2c4f5e2421ffb62adce5ed9732a2365.jpg,"459,250,528,347",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_069.jpg,ball,train,1600,1600_jpg.rf.dedafc554218632dc088d012ef51c561.jpg,"262,403,293,443",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_065.jpg,rim,train,1600,1600_jpg.rf.dedafc554218632dc088d012ef51c561.jpg,"339,219,378,281",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_056.jpg,backboard,train,1600,1600_jpg.rf.dedafc554218632dc088d012ef51c561.jpg,"331,146,399,242",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_071.jpg,latar,train,1600,1600_jpg.rf.dedafc554218632dc088d012ef51c561.jpg,"85,188,164,268",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_057.jpg,backboard,train,1601,1601_jpg.rf.1f9c7c0c67ef04f650f3099b12a4a3b7.jpg,"330,143,396,243",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_066.jpg,rim,train,1601,1601_jpg.rf.1f9c7c0c67ef04f650f3099b12a4a3b7.jpg,"339,217,377,283",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_070.jpg,ball,train,1601,1601_jpg.rf.1f9c7c0c67ef04f650f3099b12a4a3b7.jpg,"295,346,318,377",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_072.jpg,latar,train,1601,1601_jpg.rf.1f9c7c0c67ef04f650f3099b12a4a3b7.jpg,"170,220,259,306",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_071.jpg,ball,train,1602,1602_jpg.rf.d9ca779743e9b4d89bb20ca8c4345ec9.jpg,"299,359,326,393",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_067.jpg,rim,train,1602,1602_jpg.rf.d9ca779743e9b4d89bb20ca8c4345ec9.jpg,"341,214,376,284",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_058.jpg,backboard,train,1602,1602_jpg.rf.d9ca779743e9b4d89bb20ca8c4345ec9.jpg,"330,143,400,242",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_073.jpg,latar,train,1602,1602_jpg.rf.d9ca779743e9b4d89bb20ca8c4345ec9.jpg,"28,269,56,298",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_072.jpg,ball,train,1603,1603_jpg.rf.50ddd6f0331be85bdebb413c30e06f11.jpg,"312,420,340,454",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_068.jpg,rim,train,1603,1603_jpg.rf.50ddd6f0331be85bdebb413c30e06f11.jpg,"338,219,378,277",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_059.jpg,backboard,train,1603,1603_jpg.rf.50ddd6f0331be85bdebb413c30e06f11.jpg,"328,147,400,240",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_074.jpg,latar,train,1603,1603_jpg.rf.50ddd6f0331be85bdebb413c30e06f11.jpg,"509,203,560,254",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_060.jpg,backboard,train,1604,1604_jpg.rf.dbc274ada364718e0c4eace93d638c8b.jpg,"332,145,397,242",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_069.jpg,rim,train,1604,1604_jpg.rf.dbc274ada364718e0c4eace93d638c8b.jpg,"336,218,383,282",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_075.jpg,latar,train,1604,1604_jpg.rf.dbc274ada364718e0c4eace93d638c8b.jpg,"221,319,264,367",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_061.jpg,backboard,train,1605,1605_jpg.rf.01609b7719a89ae83d9dd16d57aef4d4.jpg,"329,144,400,244",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_070.jpg,rim,train,1605,1605_jpg.rf.01609b7719a89ae83d9dd16d57aef4d4.jpg,"336,222,382,278",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_076.jpg,latar,train,1605,1605_jpg.rf.01609b7719a89ae83d9dd16d57aef4d4.jpg,"370,279,426,376",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_062.jpg,backboard,train,1606,1606_jpg.rf.4dc40aec58ac6d76bc3df99ccecd6ecb.jpg,"333,145,397,240",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_071.jpg,rim,train,1606,1606_jpg.rf.4dc40aec58ac6d76bc3df99ccecd6ecb.jpg,"340,218,376,282",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_077.jpg,latar,train,1606,1606_jpg.rf.4dc40aec58ac6d76bc3df99ccecd6ecb.jpg,"499,75,550,176",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_072.jpg,rim,train,1607,1607_jpg.rf.733fc5473759ccbb0070129adcb73bf2.jpg,"338,219,376,281",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_063.jpg,backboard,train,1607,1607_jpg.rf.733fc5473759ccbb0070129adcb73bf2.jpg,"330,146,396,242",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_078.jpg,latar,train,1607,1607_jpg.rf.733fc5473759ccbb0070129adcb73bf2.jpg,"533,253,608,345",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_064.jpg,backboard,train,1608,1608_jpg.rf.6a5e8d2157294a84e4406017de43c37c.jpg,"332,145,398,241",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_073.jpg,rim,train,1608,1608_jpg.rf.6a5e8d2157294a84e4406017de43c37c.jpg,"337,218,378,282",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_079.jpg,latar,train,1608,1608_jpg.rf.6a5e8d2157294a84e4406017de43c37c.jpg,"206,277,260,362",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_065.jpg,backboard,train,1609,1609_jpg.rf.9737c3a0d8426ff12fefa1822c82c36a.jpg,"329,147,398,239",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_074.jpg,rim,train,1609,1609_jpg.rf.9737c3a0d8426ff12fefa1822c82c36a.jpg,"338,220,377,282",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_080.jpg,latar,train,1609,1609_jpg.rf.9737c3a0d8426ff12fefa1822c82c36a.jpg,"159,194,231,308",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_075.jpg,rim,train,1610,1610_jpg.rf.cb28dc0330a2df356e0e299434e93a14.jpg,"340,214,374,283",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_066.jpg,backboard,train,1610,1610_jpg.rf.cb28dc0330a2df356e0e299434e93a14.jpg,"332,146,397,240",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_081.jpg,latar,train,1610,1610_jpg.rf.cb28dc0330a2df356e0e299434e93a14.jpg,"67,43,144,155",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_067.jpg,backboard,train,1611,1611_jpg.rf.3698b4ab4d50b38c2c526a6b145d3631.jpg,"329,144,400,239",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_076.jpg,rim,train,1611,1611_jpg.rf.3698b4ab4d50b38c2c526a6b145d3631.jpg,"338,220,381,281",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_073.jpg,ball,train,1611,1611_jpg.rf.3698b4ab4d50b38c2c526a6b145d3631.jpg,"242,448,273,480",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_082.jpg,latar,train,1611,1611_jpg.rf.3698b4ab4d50b38c2c526a6b145d3631.jpg,"230,66,271,94",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_077.jpg,rim,train,1612,1612_jpg.rf.a27ef05146a922a4b525cd67e2093536.jpg,"342,219,377,278",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_068.jpg,backboard,train,1612,1612_jpg.rf.a27ef05146a922a4b525cd67e2093536.jpg,"332,144,397,243",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_074.jpg,ball,train,1612,1612_jpg.rf.a27ef05146a922a4b525cd67e2093536.jpg,"239,437,266,471",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_083.jpg,latar,train,1612,1612_jpg.rf.a27ef05146a922a4b525cd67e2093536.jpg,"459,169,495,241",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_069.jpg,backboard,train,1613,1613_jpg.rf.13021fca54c24f9eba04c2319139b71a.jpg,"329,144,399,245",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_078.jpg,rim,train,1613,1613_jpg.rf.13021fca54c24f9eba04c2319139b71a.jpg,"336,218,378,279",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_075.jpg,ball,train,1613,1613_jpg.rf.13021fca54c24f9eba04c2319139b71a.jpg,"239,441,264,475",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_084.jpg,latar,train,1613,1613_jpg.rf.13021fca54c24f9eba04c2319139b71a.jpg,"471,190,556,314",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_076.jpg,ball,train,1614,1614_jpg.rf.17466f664c084aabecefe5cf9b10baee.jpg,"282,432,311,463",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_079.jpg,rim,train,1614,1614_jpg.rf.17466f664c084aabecefe5cf9b10baee.jpg,"339,217,378,283",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_070.jpg,backboard,train,1614,1614_jpg.rf.17466f664c084aabecefe5cf9b10baee.jpg,"329,149,401,247",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_085.jpg,latar,train,1614,1614_jpg.rf.17466f664c084aabecefe5cf9b10baee.jpg,"34,293,103,393",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_071.jpg,backboard,train,1615,1615_jpg.rf.04ab7e4bc21874bf654c6aa8e278f852.jpg,"331,147,399,239",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_080.jpg,rim,train,1615,1615_jpg.rf.04ab7e4bc21874bf654c6aa8e278f852.jpg,"337,220,382,280",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_077.jpg,ball,train,1615,1615_jpg.rf.04ab7e4bc21874bf654c6aa8e278f852.jpg,"334,409,369,444",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_086.jpg,latar,train,1615,1615_jpg.rf.04ab7e4bc21874bf654c6aa8e278f852.jpg,"78,218,156,328",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_078.jpg,ball,train,1616,1616_jpg.rf.6ae8dfdd289c910a2bb2e38e2177f920.jpg,"392,379,415,409",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_081.jpg,rim,train,1616,1616_jpg.rf.6ae8dfdd289c910a2bb2e38e2177f920.jpg,"339,218,379,280",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_072.jpg,backboard,train,1616,1616_jpg.rf.6ae8dfdd289c910a2bb2e38e2177f920.jpg,"330,143,400,243",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_087.jpg,latar,train,1616,1616_jpg.rf.6ae8dfdd289c910a2bb2e38e2177f920.jpg,"427,422,450,463",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_073.jpg,backboard,train,1617,1617_jpg.rf.e3247327cf5ebc97c45de6e94ba91310.jpg,"308,141,379,242",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_082.jpg,rim,train,1617,1617_jpg.rf.e3247327cf5ebc97c45de6e94ba91310.jpg,"317,212,357,278",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_079.jpg,ball,train,1617,1617_jpg.rf.e3247327cf5ebc97c45de6e94ba91310.jpg,"401,364,427,397",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_088.jpg,latar,train,1617,1617_jpg.rf.e3247327cf5ebc97c45de6e94ba91310.jpg,"239,10,292,99",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_074.jpg,backboard,train,1618,1618_jpg.rf.397e1992e63f09ec31375bd9465374c9.jpg,"262,147,340,240",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_083.jpg,rim,train,1618,1618_jpg.rf.397e1992e63f09ec31375bd9465374c9.jpg,"284,217,321,278",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_080.jpg,ball,train,1618,1618_jpg.rf.397e1992e63f09ec31375bd9465374c9.jpg,"394,353,417,386",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_089.jpg,latar,train,1618,1618_jpg.rf.397e1992e63f09ec31375bd9465374c9.jpg,"268,422,291,451",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_081.jpg,ball,train,1619,1619_jpg.rf.c2496a7682781b888553af52e267b259.jpg,"393,353,419,386",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_084.jpg,rim,train,1619,1619_jpg.rf.c2496a7682781b888553af52e267b259.jpg,"257,235,299,293",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_075.jpg,backboard,train,1619,1619_jpg.rf.c2496a7682781b888553af52e267b259.jpg,"235,153,306,259",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_090.jpg,latar,train,1619,1619_jpg.rf.c2496a7682781b888553af52e267b259.jpg,"392,31,445,88",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_082.jpg,ball,train,1620,1620_jpg.rf.64785f0b3ff457edaa6a8d489ec733f8.jpg,"392,354,418,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_085.jpg,rim,train,1620,1620_jpg.rf.64785f0b3ff457edaa6a8d489ec733f8.jpg,"257,237,300,298",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_076.jpg,backboard,train,1620,1620_jpg.rf.64785f0b3ff457edaa6a8d489ec733f8.jpg,"233,167,307,248",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_091.jpg,latar,train,1620,1620_jpg.rf.64785f0b3ff457edaa6a8d489ec733f8.jpg,"293,373,324,401",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_077.jpg,backboard,train,1621,1621_jpg.rf.074b50c72f0cb5d3d38f76eb0b1f8afd.jpg,"256,157,333,247",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_086.jpg,rim,train,1621,1621_jpg.rf.074b50c72f0cb5d3d38f76eb0b1f8afd.jpg,"278,232,320,288",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_083.jpg,ball,train,1621,1621_jpg.rf.074b50c72f0cb5d3d38f76eb0b1f8afd.jpg,"395,356,419,386",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_092.jpg,latar,train,1621,1621_jpg.rf.074b50c72f0cb5d3d38f76eb0b1f8afd.jpg,"427,72,462,115",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_084.jpg,ball,train,1622,1622_jpg.rf.def53ac21334ac88e60c58a7529ee4bf.jpg,"394,356,416,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_087.jpg,rim,train,1622,1622_jpg.rf.def53ac21334ac88e60c58a7529ee4bf.jpg,"290,238,330,304",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_078.jpg,backboard,train,1622,1622_jpg.rf.def53ac21334ac88e60c58a7529ee4bf.jpg,"275,158,353,263",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_093.jpg,latar,train,1622,1622_jpg.rf.def53ac21334ac88e60c58a7529ee4bf.jpg,"83,344,137,417",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_079.jpg,backboard,train,1623,1623_jpg.rf.e8e85d56a1e93f01a7490329d64cfc25.jpg,"281,187,366,287",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_088.jpg,rim,train,1623,1623_jpg.rf.e8e85d56a1e93f01a7490329d64cfc25.jpg,"300,263,344,335",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_085.jpg,ball,train,1623,1623_jpg.rf.e8e85d56a1e93f01a7490329d64cfc25.jpg,"396,354,418,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_094.jpg,latar,train,1623,1623_jpg.rf.e8e85d56a1e93f01a7490329d64cfc25.jpg,"421,18,442,60",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_080.jpg,backboard,train,1624,1624_jpg.rf.e775c69ad9de1266172f5dd04fdc2782.jpg,"285,177,368,279",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_089.jpg,rim,train,1624,1624_jpg.rf.e775c69ad9de1266172f5dd04fdc2782.jpg,"302,260,350,327",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_086.jpg,ball,train,1624,1624_jpg.rf.e775c69ad9de1266172f5dd04fdc2782.jpg,"396,354,419,387",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_095.jpg,latar,train,1624,1624_jpg.rf.e775c69ad9de1266172f5dd04fdc2782.jpg,"103,241,129,278",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_087.jpg,ball,train,1625,1625_jpg.rf.96d0dff4a067173587bbb2b6aaf4c887.jpg,"394,354,418,383",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_090.jpg,rim,train,1625,1625_jpg.rf.96d0dff4a067173587bbb2b6aaf4c887.jpg,"303,264,350,330",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_081.jpg,backboard,train,1625,1625_jpg.rf.96d0dff4a067173587bbb2b6aaf4c887.jpg,"283,181,369,282",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_096.jpg,latar,train,1625,1625_jpg.rf.96d0dff4a067173587bbb2b6aaf4c887.jpg,"135,322,156,357",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_082.jpg,backboard,train,1626,1626_jpg.rf.b4e5593a6fa84754052c83f431b701eb.jpg,"304,161,377,262",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_091.jpg,rim,train,1626,1626_jpg.rf.b4e5593a6fa84754052c83f431b701eb.jpg,"321,240,361,307",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_088.jpg,ball,train,1626,1626_jpg.rf.b4e5593a6fa84754052c83f431b701eb.jpg,"394,354,417,383",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_097.jpg,latar,train,1626,1626_jpg.rf.b4e5593a6fa84754052c83f431b701eb.jpg,"354,99,389,171",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_089.jpg,ball,train,1627,1627_jpg.rf.e722547c91f2e844a714150da6e92e66.jpg,"394,354,417,386",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_092.jpg,rim,train,1627,1627_jpg.rf.e722547c91f2e844a714150da6e92e66.jpg,"316,240,362,311",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_083.jpg,backboard,train,1627,1627_jpg.rf.e722547c91f2e844a714150da6e92e66.jpg,"296,154,384,263",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_098.jpg,latar,train,1627,1627_jpg.rf.e722547c91f2e844a714150da6e92e66.jpg,"113,30,172,115",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_093.jpg,rim,train,1628,1628_jpg.rf.4c08367a0919b6747d883bb5b4ccab81.jpg,"308,146,348,214",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_084.jpg,backboard,train,1628,1628_jpg.rf.4c08367a0919b6747d883bb5b4ccab81.jpg,"294,62,372,168",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_090.jpg,ball,train,1628,1628_jpg.rf.4c08367a0919b6747d883bb5b4ccab81.jpg,"395,356,419,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_099.jpg,latar,train,1628,1628_jpg.rf.4c08367a0919b6747d883bb5b4ccab81.jpg,"345,333,374,365",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_085.jpg,backboard,train,1629,1629_jpg.rf.10481777cad8f818db7d5a1d841f8036.jpg,"290,56,362,144",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_094.jpg,rim,train,1629,1629_jpg.rf.10481777cad8f818db7d5a1d841f8036.jpg,"307,132,342,180",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_091.jpg,ball,train,1629,1629_jpg.rf.10481777cad8f818db7d5a1d841f8036.jpg,"393,355,418,383",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_100.jpg,latar,train,1629,1629_jpg.rf.10481777cad8f818db7d5a1d841f8036.jpg,"124,265,171,329",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_092.jpg,ball,train,1630,1630_jpg.rf.048cc1b3413e71e76a3e0cb60e58751f.jpg,"393,353,419,382",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_095.jpg,rim,train,1630,1630_jpg.rf.048cc1b3413e71e76a3e0cb60e58751f.jpg,"286,105,334,162",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_086.jpg,backboard,train,1630,1630_jpg.rf.048cc1b3413e71e76a3e0cb60e58751f.jpg,"269,25,352,121",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_101.jpg,latar,train,1630,1630_jpg.rf.048cc1b3413e71e76a3e0cb60e58751f.jpg,"380,387,402,417",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_087.jpg,backboard,train,1631,1631_jpg.rf.2eb137fd678f89fe01d7b1d82d85e0cd.jpg,"282,89,357,176",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_096.jpg,rim,train,1631,1631_jpg.rf.2eb137fd678f89fe01d7b1d82d85e0cd.jpg,"300,164,340,209",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_093.jpg,ball,train,1631,1631_jpg.rf.2eb137fd678f89fe01d7b1d82d85e0cd.jpg,"394,355,419,385",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_102.jpg,latar,train,1631,1631_jpg.rf.2eb137fd678f89fe01d7b1d82d85e0cd.jpg,"77,22,151,125",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_094.jpg,ball,train,1632,1632_jpg.rf.ad7d715b9f7e69a575046264f8b45a88.jpg,"395,355,417,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_097.jpg,rim,train,1632,1632_jpg.rf.ad7d715b9f7e69a575046264f8b45a88.jpg,"336,184,381,233",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_088.jpg,backboard,train,1632,1632_jpg.rf.ad7d715b9f7e69a575046264f8b45a88.jpg,"316,110,387,204",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_103.jpg,latar,train,1632,1632_jpg.rf.ad7d715b9f7e69a575046264f8b45a88.jpg,"532,341,557,381",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_095.jpg,ball,train,1633,1633_jpg.rf.20f2e471bd143be93c434c61df2b2100.jpg,"393,355,417,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_098.jpg,rim,train,1633,1633_jpg.rf.20f2e471bd143be93c434c61df2b2100.jpg,"369,148,410,200",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_089.jpg,backboard,train,1633,1633_jpg.rf.20f2e471bd143be93c434c61df2b2100.jpg,"351,74,422,168",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_104.jpg,latar,train,1633,1633_jpg.rf.20f2e471bd143be93c434c61df2b2100.jpg,"95,397,172,476",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_090.jpg,backboard,train,1634,1634_jpg.rf.52d402d5c945a2560d350b69258b6583.jpg,"384,23,448,127",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_099.jpg,rim,train,1634,1634_jpg.rf.52d402d5c945a2560d350b69258b6583.jpg,"390,100,431,158",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_096.jpg,ball,train,1634,1634_jpg.rf.52d402d5c945a2560d350b69258b6583.jpg,"392,355,418,385",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_105.jpg,latar,train,1634,1634_jpg.rf.52d402d5c945a2560d350b69258b6583.jpg,"430,259,463,296",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_097.jpg,ball,train,1635,1635_jpg.rf.49a9bf493e8c3a25926dc02143125d6b.jpg,"394,354,419,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_091.jpg,backboard,train,1635,1635_jpg.rf.49a9bf493e8c3a25926dc02143125d6b.jpg,"345,25,420,129",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_100.jpg,rim,train,1635,1635_jpg.rf.49a9bf493e8c3a25926dc02143125d6b.jpg,"357,107,400,165",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_106.jpg,latar,train,1635,1635_jpg.rf.49a9bf493e8c3a25926dc02143125d6b.jpg,"432,43,528,123",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_092.jpg,backboard,train,1636,1636_jpg.rf.dd7c78e2581075ac2c28a51bfae09de2.jpg,"286,33,364,134",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_101.jpg,rim,train,1636,1636_jpg.rf.dd7c78e2581075ac2c28a51bfae09de2.jpg,"299,111,344,179",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_098.jpg,ball,train,1636,1636_jpg.rf.dd7c78e2581075ac2c28a51bfae09de2.jpg,"394,352,415,382",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_107.jpg,latar,train,1636,1636_jpg.rf.dd7c78e2581075ac2c28a51bfae09de2.jpg,"159,375,234,451",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_093.jpg,backboard,train,1637,1637_jpg.rf.fc179ebb706dd5d9273d37a06258fa28.jpg,"221,12,305,111",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_102.jpg,rim,train,1637,1637_jpg.rf.fc179ebb706dd5d9273d37a06258fa28.jpg,"239,88,283,159",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_099.jpg,ball,train,1637,1637_jpg.rf.fc179ebb706dd5d9273d37a06258fa28.jpg,"393,353,418,382",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_108.jpg,latar,train,1637,1637_jpg.rf.fc179ebb706dd5d9273d37a06258fa28.jpg,"427,15,528,110",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_094.jpg,backboard,train,1638,1638_jpg.rf.ae0dc0099e27a8ccc34c08dd592b03e0.jpg,"209,4,297,105",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_103.jpg,rim,train,1638,1638_jpg.rf.ae0dc0099e27a8ccc34c08dd592b03e0.jpg,"226,84,279,155",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_100.jpg,ball,train,1638,1638_jpg.rf.ae0dc0099e27a8ccc34c08dd592b03e0.jpg,"392,354,419,383",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_109.jpg,latar,train,1638,1638_jpg.rf.ae0dc0099e27a8ccc34c08dd592b03e0.jpg,"30,176,72,242",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_095.jpg,backboard,train,1639,1639_jpg.rf.366df5ed85d43a80a59d9b474321de02.jpg,"244,81,322,174",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_104.jpg,rim,train,1639,1639_jpg.rf.366df5ed85d43a80a59d9b474321de02.jpg,"259,162,302,219",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_101.jpg,ball,train,1639,1639_jpg.rf.366df5ed85d43a80a59d9b474321de02.jpg,"395,354,416,381",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_110.jpg,latar,train,1639,1639_jpg.rf.366df5ed85d43a80a59d9b474321de02.jpg,"3,104,87,177",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_102.jpg,ball,train,1640,1640_jpg.rf.65ea2b660515a7151499e6f3d2d3a0a2.jpg,"394,352,419,381",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_105.jpg,rim,train,1640,1640_jpg.rf.65ea2b660515a7151499e6f3d2d3a0a2.jpg,"312,167,349,231",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_096.jpg,backboard,train,1640,1640_jpg.rf.65ea2b660515a7151499e6f3d2d3a0a2.jpg,"295,96,367,191",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_111.jpg,latar,train,1640,1640_jpg.rf.65ea2b660515a7151499e6f3d2d3a0a2.jpg,"126,3,207,123",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_106.jpg,rim,train,1641,1641_jpg.rf.563706d624f21a150a414ca4a30990c0.jpg,"341,124,383,185",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_097.jpg,backboard,train,1641,1641_jpg.rf.563706d624f21a150a414ca4a30990c0.jpg,"337,52,403,154",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_103.jpg,ball,train,1641,1641_jpg.rf.563706d624f21a150a414ca4a30990c0.jpg,"395,356,416,382",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_112.jpg,latar,train,1641,1641_jpg.rf.563706d624f21a150a414ca4a30990c0.jpg,"238,72,301,143",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_104.jpg,ball,train,1642,1642_jpg.rf.f36c12e0f3abf1d658567cb89a059cef.jpg,"396,353,419,385",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_107.jpg,rim,train,1642,1642_jpg.rf.f36c12e0f3abf1d658567cb89a059cef.jpg,"323,164,366,229",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_098.jpg,backboard,train,1642,1642_jpg.rf.f36c12e0f3abf1d658567cb89a059cef.jpg,"315,88,384,192",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_113.jpg,latar,train,1642,1642_jpg.rf.f36c12e0f3abf1d658567cb89a059cef.jpg,"264,66,289,102",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_099.jpg,backboard,train,1643,1643_jpg.rf.51bf6dc6c410790b3b506d5368cf2c69.jpg,"275,147,350,243",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_108.jpg,rim,train,1643,1643_jpg.rf.51bf6dc6c410790b3b506d5368cf2c69.jpg,"292,218,327,282",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_105.jpg,ball,train,1643,1643_jpg.rf.51bf6dc6c410790b3b506d5368cf2c69.jpg,"394,356,419,382",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_114.jpg,latar,train,1643,1643_jpg.rf.51bf6dc6c410790b3b506d5368cf2c69.jpg,"484,149,583,238",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_106.jpg,ball,train,1644,1644_jpg.rf.fefb6c264ba5612598ff40440acb1f26.jpg,"394,353,416,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_109.jpg,rim,train,1644,1644_jpg.rf.fefb6c264ba5612598ff40440acb1f26.jpg,"295,217,331,278",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_100.jpg,backboard,train,1644,1644_jpg.rf.fefb6c264ba5612598ff40440acb1f26.jpg,"283,145,355,242",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_115.jpg,latar,train,1644,1644_jpg.rf.fefb6c264ba5612598ff40440acb1f26.jpg,"315,80,411,153",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_101.jpg,backboard,train,1645,1645_jpg.rf.4cc551e8001b814d769aabd6195bdd81.jpg,"279,146,350,241",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_110.jpg,rim,train,1645,1645_jpg.rf.4cc551e8001b814d769aabd6195bdd81.jpg,"294,219,328,283",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_107.jpg,ball,train,1645,1645_jpg.rf.4cc551e8001b814d769aabd6195bdd81.jpg,"395,355,418,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_116.jpg,latar,train,1645,1645_jpg.rf.4cc551e8001b814d769aabd6195bdd81.jpg,"228,161,275,244",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_102.jpg,backboard,train,1646,1646_jpg.rf.245870b163e26b5750ebde27b9de2c5b.jpg,"289,148,357,230",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_111.jpg,rim,train,1646,1646_jpg.rf.245870b163e26b5750ebde27b9de2c5b.jpg,"307,212,344,269",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_108.jpg,ball,train,1646,1646_jpg.rf.245870b163e26b5750ebde27b9de2c5b.jpg,"395,354,419,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_117.jpg,latar,train,1646,1646_jpg.rf.245870b163e26b5750ebde27b9de2c5b.jpg,"21,201,67,275",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_103.jpg,backboard,train,1647,1647_jpg.rf.77d3055889db2d8c8745b405e1165e5d.jpg,"294,137,359,222",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_112.jpg,rim,train,1647,1647_jpg.rf.77d3055889db2d8c8745b405e1165e5d.jpg,"307,201,338,257",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_109.jpg,ball,train,1647,1647_jpg.rf.77d3055889db2d8c8745b405e1165e5d.jpg,"395,354,417,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_118.jpg,latar,train,1647,1647_jpg.rf.77d3055889db2d8c8745b405e1165e5d.jpg,"306,281,382,348",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_113.jpg,rim,train,1648,1648_jpg.rf.0d34381b3b66312a8a7579a0551e9a8d.jpg,"308,199,342,261",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_104.jpg,backboard,train,1648,1648_jpg.rf.0d34381b3b66312a8a7579a0551e9a8d.jpg,"296,134,359,220",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_110.jpg,ball,train,1648,1648_jpg.rf.0d34381b3b66312a8a7579a0551e9a8d.jpg,"394,354,418,383",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_119.jpg,latar,train,1648,1648_jpg.rf.0d34381b3b66312a8a7579a0551e9a8d.jpg,"432,152,508,220",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_105.jpg,backboard,train,1649,1649_jpg.rf.5f2c599265c7bc20b673f90bc305edfa.jpg,"296,137,358,222",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_114.jpg,rim,train,1649,1649_jpg.rf.5f2c599265c7bc20b673f90bc305edfa.jpg,"306,204,339,259",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_111.jpg,ball,train,1649,1649_jpg.rf.5f2c599265c7bc20b673f90bc305edfa.jpg,"369,357,391,389",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_120.jpg,latar,train,1649,1649_jpg.rf.5f2c599265c7bc20b673f90bc305edfa.jpg,"378,326,401,357",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_112.jpg,ball,train,1650,1650_jpg.rf.044c981cfdc5a77cf46e8484d21da638.jpg,"316,374,339,403",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_115.jpg,rim,train,1650,1650_jpg.rf.044c981cfdc5a77cf46e8484d21da638.jpg,"306,201,341,259",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_106.jpg,backboard,train,1650,1650_jpg.rf.044c981cfdc5a77cf46e8484d21da638.jpg,"296,135,362,220",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_121.jpg,latar,train,1650,1650_jpg.rf.044c981cfdc5a77cf46e8484d21da638.jpg,"427,372,477,453",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_113.jpg,ball,train,1651,1651_jpg.rf.7896cf48bae83d173df0374f23407db6.jpg,"272,429,296,461",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_116.jpg,rim,train,1651,1651_jpg.rf.7896cf48bae83d173df0374f23407db6.jpg,"308,202,340,255",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_107.jpg,backboard,train,1651,1651_jpg.rf.7896cf48bae83d173df0374f23407db6.jpg,"296,137,358,218",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_122.jpg,latar,train,1651,1651_jpg.rf.7896cf48bae83d173df0374f23407db6.jpg,"482,46,517,98",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_108.jpg,backboard,train,1652,1652_jpg.rf.855cdf03cea69509c220c57aa6e8f86a.jpg,"295,136,360,222",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_117.jpg,rim,train,1652,1652_jpg.rf.855cdf03cea69509c220c57aa6e8f86a.jpg,"308,200,340,259",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_114.jpg,ball,train,1652,1652_jpg.rf.855cdf03cea69509c220c57aa6e8f86a.jpg,"270,401,296,436",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_123.jpg,latar,train,1652,1652_jpg.rf.855cdf03cea69509c220c57aa6e8f86a.jpg,"157,359,237,434",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_115.jpg,ball,train,1653,1653_jpg.rf.866d858056ce4a2cc820b0511d5bc95d.jpg,"288,352,312,386",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_118.jpg,rim,train,1653,1653_jpg.rf.866d858056ce4a2cc820b0511d5bc95d.jpg,"307,203,341,254",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_109.jpg,backboard,train,1653,1653_jpg.rf.866d858056ce4a2cc820b0511d5bc95d.jpg,"294,138,360,217",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_124.jpg,latar,train,1653,1653_jpg.rf.866d858056ce4a2cc820b0511d5bc95d.jpg,"431,221,479,266",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_110.jpg,backboard,valid,1658,1658_jpg.rf.b0534b3216d434aa9ec89befb2259ed2.jpg,"294,134,361,219",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_119.jpg,rim,valid,1658,1658_jpg.rf.b0534b3216d434aa9ec89befb2259ed2.jpg,"307,201,341,260",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_116.jpg,ball,valid,1658,1658_jpg.rf.b0534b3216d434aa9ec89befb2259ed2.jpg,"240,456,270,480",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_125.jpg,latar,valid,1658,1658_jpg.rf.b0534b3216d434aa9ec89befb2259ed2.jpg,"535,72,593,155",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_117.jpg,ball,valid,1659,1659_jpg.rf.f30d175ffa18a083dd394f2354549b28.jpg,"256,416,281,447",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_120.jpg,rim,valid,1659,1659_jpg.rf.f30d175ffa18a083dd394f2354549b28.jpg,"307,202,339,257",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_111.jpg,backboard,valid,1659,1659_jpg.rf.f30d175ffa18a083dd394f2354549b28.jpg,"292,135,361,221",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_126.jpg,latar,valid,1659,1659_jpg.rf.f30d175ffa18a083dd394f2354549b28.jpg,"494,386,530,449",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_112.jpg,backboard,valid,1660,1660_jpg.rf.62cc45f7260f733ffc5164ef9c2b4fad.jpg,"294,135,359,223",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_121.jpg,rim,valid,1660,1660_jpg.rf.62cc45f7260f733ffc5164ef9c2b4fad.jpg,"306,199,342,259",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_118.jpg,ball,valid,1660,1660_jpg.rf.62cc45f7260f733ffc5164ef9c2b4fad.jpg,"254,412,279,441",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_127.jpg,latar,valid,1660,1660_jpg.rf.62cc45f7260f733ffc5164ef9c2b4fad.jpg,"459,316,518,422",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_113.jpg,backboard,valid,1661,1661_jpg.rf.cfe723745eb47ecc8cce9322913c29ca.jpg,"295,136,360,220",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_122.jpg,rim,valid,1661,1661_jpg.rf.cfe723745eb47ecc8cce9322913c29ca.jpg,"309,201,341,261",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_119.jpg,ball,valid,1661,1661_jpg.rf.cfe723745eb47ecc8cce9322913c29ca.jpg,"254,413,280,447",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_128.jpg,latar,valid,1661,1661_jpg.rf.cfe723745eb47ecc8cce9322913c29ca.jpg,"308,279,335,335",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_123.jpg,rim,valid,1662,1662_jpg.rf.018ef709838d8ca13ecd4bda48d80d82.jpg,"311,193,343,246",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_114.jpg,backboard,valid,1662,1662_jpg.rf.018ef709838d8ca13ecd4bda48d80d82.jpg,"299,123,364,210",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_120.jpg,ball,valid,1662,1662_jpg.rf.018ef709838d8ca13ecd4bda48d80d82.jpg,"256,402,282,435",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_129.jpg,latar,valid,1662,1662_jpg.rf.018ef709838d8ca13ecd4bda48d80d82.jpg,"482,47,505,89",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_115.jpg,backboard,valid,1663,1663_jpg.rf.71476d5d5f760442d5846e62ea36eef4.jpg,"361,290,423,379",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_124.jpg,rim,valid,1663,1663_jpg.rf.71476d5d5f760442d5846e62ea36eef4.jpg,"370,358,403,414",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_130.jpg,latar,valid,1663,1663_jpg.rf.71476d5d5f760442d5846e62ea36eef4.jpg,"415,143,457,193",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_116.jpg,backboard,valid,1664,1664_jpg.rf.3043898f9108eaa26ddc9a24138c0239.jpg,"355,292,414,380",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_125.jpg,rim,valid,1664,1664_jpg.rf.3043898f9108eaa26ddc9a24138c0239.jpg,"364,357,396,416",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_131.jpg,latar,valid,1664,1664_jpg.rf.3043898f9108eaa26ddc9a24138c0239.jpg,"41,0,90,109",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_117.jpg,backboard,valid,1665,1665_jpg.rf.6ee6f393d7983019156c516e8d0a1828.jpg,"294,291,359,378",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_126.jpg,rim,valid,1665,1665_jpg.rf.6ee6f393d7983019156c516e8d0a1828.jpg,"302,360,336,408",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_132.jpg,latar,valid,1665,1665_jpg.rf.6ee6f393d7983019156c516e8d0a1828.jpg,"405,227,442,290",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_118.jpg,backboard,valid,1666,1666_jpg.rf.d4fab26afd69aac084083761ae89812a.jpg,"156,301,222,385",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_127.jpg,rim,valid,1666,1666_jpg.rf.d4fab26afd69aac084083761ae89812a.jpg,"172,362,206,424",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_133.jpg,latar,valid,1666,1666_jpg.rf.d4fab26afd69aac084083761ae89812a.jpg,"312,273,362,372",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_119.jpg,backboard,valid,1667,1667_jpg.rf.7ad55315f3b59d8455e2d32f182bdb5b.jpg,"90,316,157,394",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_128.jpg,rim,valid,1667,1667_jpg.rf.7ad55315f3b59d8455e2d32f182bdb5b.jpg,"109,377,144,435",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_134.jpg,latar,valid,1667,1667_jpg.rf.7ad55315f3b59d8455e2d32f182bdb5b.jpg,"167,34,198,107",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_129.jpg,rim,valid,1668,1668_jpg.rf.0335b137dcde17d169f73f0a8dc2358b.jpg,"220,364,256,410",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_120.jpg,backboard,valid,1668,1668_jpg.rf.0335b137dcde17d169f73f0a8dc2358b.jpg,"202,298,276,374",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_135.jpg,latar,valid,1668,1668_jpg.rf.0335b137dcde17d169f73f0a8dc2358b.jpg,"556,206,597,253",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_130.jpg,rim,valid,1669,1669_jpg.rf.5e2cc41533db0138fc167728fa10f9b7.jpg,"304,209,337,260",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_121.jpg,backboard,valid,1669,1669_jpg.rf.5e2cc41533db0138fc167728fa10f9b7.jpg,"292,136,356,228",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_121.jpg,ball,valid,1669,1669_jpg.rf.5e2cc41533db0138fc167728fa10f9b7.jpg,"250,411,279,451",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_136.jpg,latar,valid,1669,1669_jpg.rf.5e2cc41533db0138fc167728fa10f9b7.jpg,"126,356,196,428",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_122.jpg,ball,valid,1670,1670_jpg.rf.626e33f6a03bd765afd4773d30e2b2c8.jpg,"226,287,255,324",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_131.jpg,rim,valid,1670,1670_jpg.rf.626e33f6a03bd765afd4773d30e2b2c8.jpg,"274,74,307,130",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_122.jpg,backboard,valid,1670,1670_jpg.rf.626e33f6a03bd765afd4773d30e2b2c8.jpg,"256,5,328,97",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_137.jpg,latar,valid,1670,1670_jpg.rf.626e33f6a03bd765afd4773d30e2b2c8.jpg,"142,286,172,329",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_123.jpg,ball,valid,1671,1671_jpg.rf.a044bcca312365456d1b3ed379553373.jpg,"217,276,248,310",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_132.jpg,rim,valid,1671,1671_jpg.rf.a044bcca312365456d1b3ed379553373.jpg,"258,53,295,114",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_123.jpg,backboard,valid,1671,1671_jpg.rf.a044bcca312365456d1b3ed379553373.jpg,"240,0,317,74",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_138.jpg,latar,valid,1671,1671_jpg.rf.a044bcca312365456d1b3ed379553373.jpg,"425,111,493,198",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_124.jpg,ball,valid,1672,1672_jpg.rf.f9caeb4c0f3829016417163cc0f42b5f.jpg,"303,350,332,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_133.jpg,rim,valid,1672,1672_jpg.rf.f9caeb4c0f3829016417163cc0f42b5f.jpg,"376,148,406,203",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_139.jpg,latar,valid,1672,1672_jpg.rf.f9caeb4c0f3829016417163cc0f42b5f.jpg,"504,333,538,392",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_124.jpg,backboard,valid,1673,1673_jpg.rf.d264e2ebdf4c7c1f57cc38483a03123c.jpg,"501,125,570,237",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_125.jpg,ball,valid,1673,1673_jpg.rf.d264e2ebdf4c7c1f57cc38483a03123c.jpg,"404,385,435,418",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_140.jpg,latar,valid,1673,1673_jpg.rf.d264e2ebdf4c7c1f57cc38483a03123c.jpg,"507,26,576,113",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_126.jpg,ball,valid,1674,1674_jpg.rf.d7a2f8bc10f88f9f51e8e7ed5bffefdb.jpg,"492,428,520,462",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_134.jpg,rim,valid,1674,1674_jpg.rf.d7a2f8bc10f88f9f51e8e7ed5bffefdb.jpg,"611,265,640,332",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_141.jpg,latar,valid,1674,1674_jpg.rf.d7a2f8bc10f88f9f51e8e7ed5bffefdb.jpg,"10,433,35,472",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_127.jpg,ball,valid,1675,1675_jpg.rf.d287a54071adff948993092c1c3db5a3.jpg,"500,399,530,440",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_142.jpg,latar,valid,1675,1675_jpg.rf.d287a54071adff948993092c1c3db5a3.jpg,"404,3,441,37",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_128.jpg,ball,valid,1676,1676_jpg.rf.c1bc657ceb77fd9cbf4a7758c99d57df.jpg,"402,332,437,373",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_135.jpg,rim,valid,1676,1676_jpg.rf.c1bc657ceb77fd9cbf4a7758c99d57df.jpg,"501,157,542,218",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_125.jpg,backboard,valid,1676,1676_jpg.rf.c1bc657ceb77fd9cbf4a7758c99d57df.jpg,"502,77,571,194",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_143.jpg,latar,valid,1676,1676_jpg.rf.c1bc657ceb77fd9cbf4a7758c99d57df.jpg,"276,327,309,395",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_129.jpg,ball,valid,1677,1677_jpg.rf.c91e58122a3055ddbe1c904983d84413.jpg,"254,326,288,358",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_126.jpg,backboard,valid,1677,1677_jpg.rf.c91e58122a3055ddbe1c904983d84413.jpg,"295,47,374,139",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_136.jpg,rim,valid,1677,1677_jpg.rf.c91e58122a3055ddbe1c904983d84413.jpg,"313,126,346,172",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_144.jpg,latar,valid,1677,1677_jpg.rf.c91e58122a3055ddbe1c904983d84413.jpg,"144,384,177,446",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_127.jpg,backboard,valid,1678,1678_jpg.rf.39e529fee835aa757cffb340e3f10d6b.jpg,"148,126,229,197",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_137.jpg,rim,valid,1678,1678_jpg.rf.39e529fee835aa757cffb340e3f10d6b.jpg,"170,187,212,236",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_130.jpg,ball,valid,1678,1678_jpg.rf.39e529fee835aa757cffb340e3f10d6b.jpg,"154,408,188,450",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_145.jpg,latar,valid,1678,1678_jpg.rf.39e529fee835aa757cffb340e3f10d6b.jpg,"471,366,505,402",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_128.jpg,backboard,valid,1679,1679_jpg.rf.3735eccb008a656492809e9b7fc097e1.jpg,"95,209,161,296",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_138.jpg,rim,valid,1679,1679_jpg.rf.3735eccb008a656492809e9b7fc097e1.jpg,"114,279,150,331",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_146.jpg,latar,valid,1679,1679_jpg.rf.3735eccb008a656492809e9b7fc097e1.jpg,"445,75,483,125",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_129.jpg,backboard,valid,1680,1680_jpg.rf.a26f17a2c6ef9f1d91a7ce0d000d8f79.jpg,"223,242,301,336",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_139.jpg,rim,valid,1680,1680_jpg.rf.a26f17a2c6ef9f1d91a7ce0d000d8f79.jpg,"244,313,277,364",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_147.jpg,latar,valid,1680,1680_jpg.rf.a26f17a2c6ef9f1d91a7ce0d000d8f79.jpg,"323,66,369,109",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_131.jpg,ball,test,1685,1685_jpg.rf.29c94c947f2b06bfc5504b172f25c591.jpg,"276,285,324,342",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_140.jpg,rim,test,1685,1685_jpg.rf.29c94c947f2b06bfc5504b172f25c591.jpg,"277,64,317,112",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_130.jpg,backboard,test,1685,1685_jpg.rf.29c94c947f2b06bfc5504b172f25c591.jpg,"265,0,333,80",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_148.jpg,latar,test,1685,1685_jpg.rf.29c94c947f2b06bfc5504b172f25c591.jpg,"398,218,463,276",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_132.jpg,ball,test,1686,1686_jpg.rf.3c6aa94ec1a6edf0d2e285ab5899d0b2.jpg,"273,284,325,348",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_141.jpg,rim,test,1686,1686_jpg.rf.3c6aa94ec1a6edf0d2e285ab5899d0b2.jpg,"283,61,312,113",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_131.jpg,backboard,test,1686,1686_jpg.rf.3c6aa94ec1a6edf0d2e285ab5899d0b2.jpg,"265,1,330,77",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_149.jpg,latar,test,1686,1686_jpg.rf.3c6aa94ec1a6edf0d2e285ab5899d0b2.jpg,"200,224,231,271",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_132.jpg,backboard,test,1687,1687_jpg.rf.622edc8e4f31374e1f1c89d01a12e3ef.jpg,"263,0,328,78",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_142.jpg,rim,test,1687,1687_jpg.rf.622edc8e4f31374e1f1c89d01a12e3ef.jpg,"280,66,312,117",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_133.jpg,ball,test,1687,1687_jpg.rf.622edc8e4f31374e1f1c89d01a12e3ef.jpg,"275,284,326,346",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_150.jpg,latar,test,1687,1687_jpg.rf.622edc8e4f31374e1f1c89d01a12e3ef.jpg,"397,17,469,75",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_134.jpg,ball,test,1688,1688_jpg.rf.9a250e094a7d14f7db2fd1445dc9c2cd.jpg,"273,278,323,343",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_143.jpg,rim,test,1688,1688_jpg.rf.9a250e094a7d14f7db2fd1445dc9c2cd.jpg,"277,52,310,114",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_133.jpg,backboard,test,1688,1688_jpg.rf.9a250e094a7d14f7db2fd1445dc9c2cd.jpg,"263,0,331,72",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_151.jpg,latar,test,1688,1688_jpg.rf.9a250e094a7d14f7db2fd1445dc9c2cd.jpg,"372,29,429,111",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_135.jpg,ball,test,1689,1689_jpg.rf.6f0a1fcefc668efb4618320207ce0944.jpg,"307,311,363,381",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_144.jpg,rim,test,1689,1689_jpg.rf.6f0a1fcefc668efb4618320207ce0944.jpg,"328,95,357,142",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_134.jpg,backboard,test,1689,1689_jpg.rf.6f0a1fcefc668efb4618320207ce0944.jpg,"311,25,382,115",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_152.jpg,latar,test,1689,1689_jpg.rf.6f0a1fcefc668efb4618320207ce0944.jpg,"291,394,356,467",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_135.jpg,backboard,test,1690,1690_jpg.rf.115712fb48815ef7b4ff7647da984cf4.jpg,"322,125,388,214",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_145.jpg,rim,test,1690,1690_jpg.rf.115712fb48815ef7b4ff7647da984cf4.jpg,"331,191,365,249",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_136.jpg,ball,test,1690,1690_jpg.rf.115712fb48815ef7b4ff7647da984cf4.jpg,"299,394,347,460",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_153.jpg,latar,test,1690,1690_jpg.rf.115712fb48815ef7b4ff7647da984cf4.jpg,"528,340,564,385",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_136.jpg,backboard,test,1691,1691_jpg.rf.cbaf26a287cb907b0f54660e46d7e96d.jpg,"284,11,347,90",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_146.jpg,rim,test,1691,1691_jpg.rf.cbaf26a287cb907b0f54660e46d7e96d.jpg,"294,76,329,131",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_137.jpg,ball,test,1691,1691_jpg.rf.cbaf26a287cb907b0f54660e46d7e96d.jpg,"288,271,339,341",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_154.jpg,latar,test,1691,1691_jpg.rf.cbaf26a287cb907b0f54660e46d7e96d.jpg,"440,297,508,389",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_138.jpg,ball,test,1692,1692_jpg.rf.528e518b7b0b82a7664ee179f87cb447.jpg,"352,363,403,426",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_147.jpg,rim,test,1692,1692_jpg.rf.528e518b7b0b82a7664ee179f87cb447.jpg,"360,161,394,218",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_137.jpg,backboard,test,1692,1692_jpg.rf.528e518b7b0b82a7664ee179f87cb447.jpg,"351,97,414,183",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_155.jpg,latar,test,1692,1692_jpg.rf.528e518b7b0b82a7664ee179f87cb447.jpg,"220,172,258,239",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_139.jpg,ball,test,1693,1693_jpg.rf.42f174ae3cdc6fdb9432d27b51743e64.jpg,"302,313,353,382",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_148.jpg,rim,test,1693,1693_jpg.rf.42f174ae3cdc6fdb9432d27b51743e64.jpg,"299,122,325,174",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_138.jpg,backboard,test,1693,1693_jpg.rf.42f174ae3cdc6fdb9432d27b51743e64.jpg,"277,52,355,139",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_156.jpg,latar,test,1693,1693_jpg.rf.42f174ae3cdc6fdb9432d27b51743e64.jpg,"358,1,381,42",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_139.jpg,backboard,test,1694,1694_jpg.rf.bd13b3c60e4a3933bd5b2f66be0f5ff3.jpg,"262,25,328,105",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_149.jpg,rim,test,1694,1694_jpg.rf.bd13b3c60e4a3933bd5b2f66be0f5ff3.jpg,"280,86,312,139",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_140.jpg,ball,test,1694,1694_jpg.rf.bd13b3c60e4a3933bd5b2f66be0f5ff3.jpg,"290,285,336,345",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_157.jpg,latar,test,1694,1694_jpg.rf.bd13b3c60e4a3933bd5b2f66be0f5ff3.jpg,"438,348,477,392",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_140.jpg,backboard,test,1695,1695_jpg.rf.b60246ca7bcd12a03718b4a464c98fcb.jpg,"277,44,339,120",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_150.jpg,rim,test,1695,1695_jpg.rf.b60246ca7bcd12a03718b4a464c98fcb.jpg,"288,105,322,161",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_141.jpg,ball,test,1695,1695_jpg.rf.b60246ca7bcd12a03718b4a464c98fcb.jpg,"267,293,307,348",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_158.jpg,latar,test,1695,1695_jpg.rf.b60246ca7bcd12a03718b4a464c98fcb.jpg,"87,406,145,466",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_151.jpg,rim,test,1696,1696_jpg.rf.e10ec09e10bd2ba9fabf24f83a27f23a.jpg,"358,164,390,221",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_141.jpg,backboard,test,1696,1696_jpg.rf.e10ec09e10bd2ba9fabf24f83a27f23a.jpg,"343,98,412,188",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_142.jpg,ball,test,1696,1696_jpg.rf.e10ec09e10bd2ba9fabf24f83a27f23a.jpg,"277,341,319,392",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_159.jpg,latar,test,1696,1696_jpg.rf.e10ec09e10bd2ba9fabf24f83a27f23a.jpg,"82,107,119,156",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_143.jpg,ball,test,1697,1697_jpg.rf.3869c48210e1ea7aeff7ec5fc1d5a793.jpg,"212,304,263,374",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_142.jpg,backboard,test,1697,1697_jpg.rf.3869c48210e1ea7aeff7ec5fc1d5a793.jpg,"266,60,337,145",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_152.jpg,rim,test,1697,1697_jpg.rf.3869c48210e1ea7aeff7ec5fc1d5a793.jpg,"285,129,317,175",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_160.jpg,latar,test,1697,1697_jpg.rf.3869c48210e1ea7aeff7ec5fc1d5a793.jpg,"257,344,290,403",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_143.jpg,backboard,test,1698,1698_jpg.rf.71bf1fe469d2bae645211bf7ac51066b.jpg,"315,18,386,112",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_153.jpg,rim,test,1698,1698_jpg.rf.71bf1fe469d2bae645211bf7ac51066b.jpg,"330,85,362,140",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_144.jpg,ball,test,1698,1698_jpg.rf.71bf1fe469d2bae645211bf7ac51066b.jpg,"251,260,296,320",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_161.jpg,latar,test,1698,1698_jpg.rf.71bf1fe469d2bae645211bf7ac51066b.jpg,"393,130,449,185",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_144.jpg,backboard,test,1699,1699_jpg.rf.1259e04aaf552c3b49c55a17a2324caf.jpg,"311,107,381,193",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_154.jpg,rim,test,1699,1699_jpg.rf.1259e04aaf552c3b49c55a17a2324caf.jpg,"327,172,356,228",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_145.jpg,ball,test,1699,1699_jpg.rf.1259e04aaf552c3b49c55a17a2324caf.jpg,"245,350,291,404",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_162.jpg,latar,test,1699,1699_jpg.rf.1259e04aaf552c3b49c55a17a2324caf.jpg,"45,156,75,222",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_145.jpg,backboard,test,1700,1700_jpg.rf.6219e38628137284fc6302351a24fc1a.jpg,"272,53,337,130",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_155.jpg,rim,test,1700,1700_jpg.rf.6219e38628137284fc6302351a24fc1a.jpg,"285,112,319,170",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_146.jpg,ball,test,1700,1700_jpg.rf.6219e38628137284fc6302351a24fc1a.jpg,"217,296,260,357",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_163.jpg,latar,test,1700,1700_jpg.rf.6219e38628137284fc6302351a24fc1a.jpg,"448,24,483,86",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_147.jpg,ball,test,1701,1701_jpg.rf.e8ac5eb1874fe2dbdfab56dace972bf9.jpg,"245,328,298,384",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_146.jpg,backboard,test,1701,1701_jpg.rf.e8ac5eb1874fe2dbdfab56dace972bf9.jpg,"300,134,369,227",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_156.jpg,rim,test,1701,1701_jpg.rf.e8ac5eb1874fe2dbdfab56dace972bf9.jpg,"314,212,350,258",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_164.jpg,latar,test,1701,1701_jpg.rf.e8ac5eb1874fe2dbdfab56dace972bf9.jpg,"120,43,211,133",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_148.jpg,ball,test,1702,1702_jpg.rf.c417c4552401513bd532a60632acc2f7.jpg,"327,135,371,182",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_147.jpg,backboard,test,1702,1702_jpg.rf.c417c4552401513bd532a60632acc2f7.jpg,"328,0,403,81",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_157.jpg,rim,test,1702,1702_jpg.rf.c417c4552401513bd532a60632acc2f7.jpg,"345,58,374,111",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_165.jpg,latar,test,1702,1702_jpg.rf.c417c4552401513bd532a60632acc2f7.jpg,"157,211,198,271",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_149.jpg,ball,test,1703,1703_jpg.rf.9e762ce1f51199fce0d1052c7f5c912a.jpg,"378,236,405,279",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_158.jpg,rim,test,1703,1703_jpg.rf.9e762ce1f51199fce0d1052c7f5c912a.jpg,"371,64,405,119",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_148.jpg,backboard,test,1703,1703_jpg.rf.9e762ce1f51199fce0d1052c7f5c912a.jpg,"361,0,426,89",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_166.jpg,latar,test,1703,1703_jpg.rf.9e762ce1f51199fce0d1052c7f5c912a.jpg,"437,286,466,322",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_150.jpg,ball,test,1704,1704_jpg.rf.90ab49749458a25534e2a4a981c28473.jpg,"400,325,433,376",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_159.jpg,rim,test,1704,1704_jpg.rf.90ab49749458a25534e2a4a981c28473.jpg,"386,109,419,161",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_149.jpg,backboard,test,1704,1704_jpg.rf.90ab49749458a25534e2a4a981c28473.jpg,"375,31,442,136",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_167.jpg,latar,test,1704,1704_jpg.rf.90ab49749458a25534e2a4a981c28473.jpg,"501,112,529,158",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_151.jpg,ball,test,1705,1705_jpg.rf.1f55c5769e2fa904072e0bc12224251c.jpg,"363,355,397,401",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_150.jpg,backboard,test,1705,1705_jpg.rf.1f55c5769e2fa904072e0bc12224251c.jpg,"335,87,407,177",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_168.jpg,latar,test,1705,1705_jpg.rf.1f55c5769e2fa904072e0bc12224251c.jpg,"554,103,610,215",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_152.jpg,ball,test,1706,1706_jpg.rf.efae84d67cb4f8c83d35dba8c16d6fa1.jpg,"301,262,331,294",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_160.jpg,rim,test,1706,1706_jpg.rf.efae84d67cb4f8c83d35dba8c16d6fa1.jpg,"262,53,294,114",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_151.jpg,backboard,test,1706,1706_jpg.rf.efae84d67cb4f8c83d35dba8c16d6fa1.jpg,"241,0,320,72",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_169.jpg,latar,test,1706,1706_jpg.rf.efae84d67cb4f8c83d35dba8c16d6fa1.jpg,"473,274,544,351",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_153.jpg,ball,test,1707,1707_jpg.rf.b1ba713a1ad34c29871fd9a72c0e91a3.jpg,"387,332,414,375",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_161.jpg,rim,test,1707,1707_jpg.rf.b1ba713a1ad34c29871fd9a72c0e91a3.jpg,"372,125,406,175",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_152.jpg,backboard,test,1707,1707_jpg.rf.b1ba713a1ad34c29871fd9a72c0e91a3.jpg,"361,49,426,150",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_170.jpg,latar,test,1707,1707_jpg.rf.b1ba713a1ad34c29871fd9a72c0e91a3.jpg,"121,314,178,398",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_153.jpg,backboard,test,1708,1708_jpg.rf.e01f0a8843a9068fcee114c23638307f.jpg,"355,126,416,217",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_162.jpg,rim,test,1708,1708_jpg.rf.e01f0a8843a9068fcee114c23638307f.jpg,"365,196,401,248",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_154.jpg,ball,test,1708,1708_jpg.rf.e01f0a8843a9068fcee114c23638307f.jpg,"385,408,411,440",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_171.jpg,latar,test,1708,1708_jpg.rf.e01f0a8843a9068fcee114c23638307f.jpg,"254,111,278,152",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_155.jpg,ball,test,1709,1709_jpg.rf.d08851da80db988cc54cbea42b108853.jpg,"296,345,325,385",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_163.jpg,rim,test,1709,1709_jpg.rf.d08851da80db988cc54cbea42b108853.jpg,"254,146,287,197",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+backboard/backboard_20260924_netral_154.jpg,backboard,test,1709,1709_jpg.rf.d08851da80db988cc54cbea42b108853.jpg,"235,74,306,162",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_172.jpg,latar,test,1709,1709_jpg.rf.d08851da80db988cc54cbea42b108853.jpg,"6,379,52,450",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+ball/ball_20260924_netral_156.jpg,ball,test,1710,1710_jpg.rf.c0895a2b799a44da7933819104c493ab.jpg,"294,200,320,253",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+rim/rim_20260924_netral_164.jpg,rim,test,1710,1710_jpg.rf.c0895a2b799a44da7933819104c493ab.jpg,"249,16,284,54",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)
+latar/latar_20260924_netral_173.jpg,latar,test,1710,1710_jpg.rf.c0895a2b799a44da7933819104c493ab.jpg,"279,60,327,94",2026-09-24,netral,BRAIL-24Sep,e-con See3CAM_CU135 (kepala robot)

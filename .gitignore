@@ -1,11 +1,13 @@
 __pycache__/
 *.pyc
 runs/
+smoke_results/
+smoke_runs/
 *.pt
+*.pth
 *.onnx
 *.plan
 *.engine
 .ipynb_checkpoints/
 .env
-dataset_session/
-results_all.zip
+*.zip
